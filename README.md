@@ -7,6 +7,8 @@ My goals:
 
 
 ## Currently Reading
+* The Book of Illusions, Paul Auster
+* Shadow & Claw, Gene Wolfe
 
 
 ## 2020
