@@ -46,17 +46,17 @@ The links where available point to interesting reviews of the book. They are not
 * [The 7 1/2 Deaths of Evelyn Hardcastle](https://crimefictionlover.com/2018/03/the-seven-deaths-of-evelyn-hardcastle/), Stuart Turton
 * [Quichotte] (https://www.npr.org/2019/09/07/755162016/if-salman-rushdies-quichotte-drives-you-nuts-thats-fine-its-meant-to/), Salman Rushdie
 * [The Girl Who Could Move Sh\*t with Her Mind](https://nerdslikeme.co.uk/2019/06/17/review-the-girl-who-could-move-sht-with-her-mind-jackson-ford/), Jackson Ford
-* [The Death of Mrs.Westeway] (https://mbtb-books.blogspot.com/2019/05/the-death-of-mrs-westaway-by-ruth-ware.html/),Ruth Ware
-* [The Sentence is Death] (https://www.npr.org/2019/06/08/730580461/the-sentence-is-death-is-a-bracing-addition-to-any-beach-bag/), Anthony Horowitz
-* [The Nickel Boys] (https://www.npr.org/2019/07/18/740901819/for-the-nickel-boys-life-isnt-worth-five-cents/), Colson Whitehead
+* [The Death of Mrs.Westeway](https://mbtb-books.blogspot.com/2019/05/the-death-of-mrs-westaway-by-ruth-ware.html/),Ruth Ware
+* [The Sentence is Death](https://www.npr.org/2019/06/08/730580461/the-sentence-is-death-is-a-bracing-addition-to-any-beach-bag/), Anthony Horowitz
+* [The Nickel Boys](https://www.npr.org/2019/07/18/740901819/for-the-nickel-boys-life-isnt-worth-five-cents/), Colson Whitehead
 * [The Word is Murder](https://thecrimereview.com/2018/11/05/review-the-word-is-murder-by-anthony-horowitz/) Anthony Horowtiz
-* [The Witch Elm] (https://www.npr.org/2018/10/14/656989714/the-witch-elm-starts-slow-then-sucks-you-in/), Tana French
-* [The Topeka School] (https://www.fantasticfiction.com/l/ben-lerner/topeka-school.htm/), Ben Lerner
-* [The Glass Bead Game] (https://medium.com/@dailyflashpan/h-hesse-the-glass-bead-game-the-future-of-an-illusion-4d9f25bb1985/) Herman Hesse
+* [The Witch Elm](https://www.npr.org/2018/10/14/656989714/the-witch-elm-starts-slow-then-sucks-you-in/), Tana French
+* [The Topeka School](https://www.fantasticfiction.com/l/ben-lerner/topeka-school.htm/), Ben Lerner
+* [The Glass Bead Game](https://medium.com/@dailyflashpan/h-hesse-the-glass-bead-game-the-future-of-an-illusion-4d9f25bb1985/) Herman Hesse
 * [Thus was Adonis Murdered](https://www.fantasticfiction.com/c/sarah-caudwell/thus-was-adonis-murdered.htm), Sarah Caudwell
-* [The Old Drift] (https://www.thenation.com/article/archive/namwali-serpell-the-old-drift-novel-review/), Namwali Serpell
-* [Black Souls] (https://www.fantasticfiction.com/c/gioacchino-criaco/black-souls.htm/ Gioacchino Criaco
-* [The Mastermind],(https://magazine.atavist.com/the-mastermind), Evan Ratliff
-* [Night Boat to Tangier] (https://www.npr.org/2019/09/20/762515226/take-a-dark-ride-on-the-night-boat-to-tangier/),Kevin Barry
-* [Lady in the Lake], (https://www.npr.org/2019/07/25/742220303/real-disappearances-are-the-premise-for-laura-lippmans-lady-in-the-lake/), Laura Lippman
-* [My Lovely Wife],(https://www.criminalelement.com/book-review-my-lovely-wife-samantha-downing/), Samantha Downing
+* [The Old Drift](https://www.thenation.com/article/archive/namwali-serpell-the-old-drift-novel-review/), Namwali Serpell
+* [Black Souls](https://www.fantasticfiction.com/c/gioacchino-criaco/black-souls.htm/), Gioacchino Criaco
+* [The Mastermind](https://magazine.atavist.com/the-mastermind), Evan Ratliff
+* [Night Boat to Tangier](https://www.npr.org/2019/09/20/762515226/take-a-dark-ride-on-the-night-boat-to-tangier/),Kevin Barry
+* [Lady in the Lake](https://www.npr.org/2019/07/25/742220303/real-disappearances-are-the-premise-for-laura-lippmans-lady-in-the-lake/), Laura Lippman
+* [My Lovely Wife](https://www.criminalelement.com/book-review-my-lovely-wife-samantha-downing/), Samantha Downing
