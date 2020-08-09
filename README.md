@@ -33,18 +33,17 @@ The links where available point to interesting reviews of the book. They are not
 * [The American Dream?], Shing Yin Khor
 * [Blue Moon], Lee Child
 * [Permanent Record], Edward J Snowden
-* [Alienation], Inés Estrada
-* [Swimming in Darkness],Lucas Harari 
-* [BTTM FDRS],Ezra Claytan Daniels
-* [Yoga for the Inflexible Male],Yoga Matt 
-* [Trick Mirror], Jia Tolentino 
-* [The Future of Another Timeline], Annalee Newitz 
-* [The Third Policeman],
-* [This is How You Lose the Time War],
-* [The Callahan Chronicles],
-* [Fleishman is in Trouble],
+* [Alienation](https://www.npr.org/2019/05/04/719655355/virtual-reality-eases-the-reality-of-natural-destruction-somewhat-in-alienation), Inés Estrada
+* [Swimming in Darkness](https://www.npr.org/books/titles/755486162/swimming-in-darkness),Lucas Harari 
+* [BTTM FDRS](https://www.npr.org/2019/06/27/736317209/of-tenants-and-tentacles-bttm-fdrs-confronts-gentrification-in-comic-horror-form),Ezra Claytan Daniels
+* [Yoga for the Inflexible Male](https://www.amazon.com/Yoga-Inflexible-Male-How-Guide/dp/1984856944),Yoga Matt 
+* [Trick Mirror](https://slate.com/culture/2019/08/jia-tolentino-book-review-trick-mirror-reflections-on-self-delusion.html), Jia Tolentino 
+* [The Future of Another Timeline](https://comicyears.com/books/the-future-of-another-timeline-review/), Annalee Newitz 
+* [The Third Policeman](http://www.bookslut.com/fiction/2003_12_001145.php),Flann O'Brien
+* [The Callahan Chronicals](https://www.amazon.com/Callahan-Chronicals-Spider-Robinson/dp/0812539370),Spider Robinson
+* [Fleishman is in Trouble](https://www.npr.org/2019/06/18/733430304/fleishman-is-in-trouble-flips-expectations-upside-down), Taffy Brodesser-Akner
 * [The 7 1/2 Deaths of Evelyn Hardcastle](https://crimefictionlover.com/2018/03/the-seven-deaths-of-evelyn-hardcastle/), Stuart Turton
-* [Quichotte] (https://www.npr.org/2019/09/07/755162016/if-salman-rushdies-quichotte-drives-you-nuts-thats-fine-its-meant-to/), Salman Rushdie
+* [Quichotte](https://www.npr.org/2019/09/07/755162016/if-salman-rushdies-quichotte-drives-you-nuts-thats-fine-its-meant-to/), Salman Rushdie
 * [The Girl Who Could Move Sh\*t with Her Mind](https://nerdslikeme.co.uk/2019/06/17/review-the-girl-who-could-move-sht-with-her-mind-jackson-ford/), Jackson Ford
 * [The Death of Mrs.Westeway](https://mbtb-books.blogspot.com/2019/05/the-death-of-mrs-westaway-by-ruth-ware.html/),Ruth Ware
 * [The Sentence is Death](https://www.npr.org/2019/06/08/730580461/the-sentence-is-death-is-a-bracing-addition-to-any-beach-bag/), Anthony Horowitz
