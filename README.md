@@ -1,6 +1,6 @@
 # Reading List
 
-I read a lot. This is a way for me to keep track of the books I have read starting the year 2020.
+This list keeps track of the books I have read starting the year 2020.
 The links where available point to interesting reviews of the book. They are not necessarily why I read them. It is likely that I found them on various book lists or just happened to read a synopsis of the dust jacket. 
 
 ## Currently Reading
