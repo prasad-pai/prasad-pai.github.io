@@ -20,19 +20,19 @@ The links where available point to interesting reviews of the book. They are not
     * The Border
 * [A Coffin for Dimitrios](https://blog.mcdaniel.edu/mysteryreviewsfa2017/1920-1939/a-coffin-for-dimitrios-by-eric-ambler-1938/), Eric Ambler
 * [Wanderers](https://www.npr.org/2019/07/06/738974776/these-wanderers-are-heading-for-the-end-of-the-world), Chuck Wendig
-* [It Would Be Night in Caracas], Karina Sainz Borgo
-* [Catch and Kill]. Ronan Farrow
-* [Good to Go],Christie,Aschwanden 
-* [Death Wins A Goldfish], Brian Rea
-* [Recursion], Blake Crouch
-* [Slow Horses], Mick Herron
-* [A Carnival of Losses], Donald Hall
-* [True Brews], Emma Christensen
-* [Harley Quinn], Mariko Tamaki
-* [Stanislaw Lem's The Seventh Voyage], Jon J Muth
-* [The American Dream?], Shing Yin Khor
-* [Blue Moon], Lee Child
-* [Permanent Record], Edward J Snowden
+* [It Would Be Night in Caracas](https://www.npr.org/2019/10/28/771313679/it-would-be-night-in-caracas-mourns-a-mother-and-a-country), Karina Sainz Borgo
+* [Catch and Kill](https://www.npr.org/2019/10/11/768346770/in-catch-and-kill-ronan-farrow-offers-a-damning-portrait-of-a-conflicted-nbc), Ronan Farrow
+* [Good to Go](https://www.amazon.com/Good-Go-Athlete-Strange-Recovery/dp/039325433X),Christie,Aschwanden 
+* [Death Wins A Goldfish](https://www.amazon.com/Death-Wins-Goldfish-Reflections-Sabbatical/dp/1452172552), Brian Rea
+* [Recursion](https://www.npr.org/2019/06/13/732035142/recursion-is-a-puzzle-box-of-time-travel-memory-and-death), Blake Crouch
+* [Slow Horses](https://crimefictionlover.com/2014/03/slow-horses-2/), Mick Herron
+* [A Carnival of Losses](https://thegeorgiareview.com/posts/on-a-carnival-of-losses-notes-nearing-ninety-by-donald-hall/), Donald Hall
+* [True Brews](https://www.amazon.com/True-Brews-Craft-Fermented-Kombucha/dp/1607743388), Emma Christensen
+* [Harley Quinn](https://www.britishfantasysociety.org/reviews/harley-quinn-breaking-glass-by-mariko-tamaki-and-steve-pugh-review/), Mariko Tamaki
+* [Stanislaw Lem's The Seventh Voyage](https://www.npr.org/2019/10/04/766840876/the-seventh-voyage-takes-a-grand-journey-in-a-tiny-spaceship), Jon J Muth
+* [The American Dream?](https://www.pastemagazine.com/comics/shing-yin-khor/rethink-an-iconic-pilgrimage-in-the-american-dream/), Shing Yin Khor
+* [Blue Moon](https://www.nyjournalofbooks.com/book-review/blue-moon-jack-reacher-novel), Lee Child
+* [Permanent Record](https://www.nyjournalofbooks.com/book-review/blue-moon-jack-reacher-novel), Edward J Snowden
 * [Alienation](https://www.npr.org/2019/05/04/719655355/virtual-reality-eases-the-reality-of-natural-destruction-somewhat-in-alienation), Inés Estrada
 * [Swimming in Darkness](https://www.npr.org/books/titles/755486162/swimming-in-darkness),Lucas Harari 
 * [BTTM FDRS](https://www.npr.org/2019/06/27/736317209/of-tenants-and-tentacles-bttm-fdrs-confronts-gentrification-in-comic-horror-form),Ezra Claytan Daniels
@@ -59,3 +59,4 @@ The links where available point to interesting reviews of the book. They are not
 * [Night Boat to Tangier](https://www.npr.org/2019/09/20/762515226/take-a-dark-ride-on-the-night-boat-to-tangier/),Kevin Barry
 * [Lady in the Lake](https://www.npr.org/2019/07/25/742220303/real-disappearances-are-the-premise-for-laura-lippmans-lady-in-the-lake/), Laura Lippman
 * [My Lovely Wife](https://www.criminalelement.com/book-review-my-lovely-wife-samantha-downing/), Samantha Downing
+* [They Called Us Enemy](https://www.npr.org/2019/07/17/742558996/george-takei-recalls-time-in-an-american-internment-camp-in-they-called-us-enemy), George Takei
