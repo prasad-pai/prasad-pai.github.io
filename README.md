@@ -22,7 +22,7 @@ The links where available point to interesting reviews of the book. They are not
 * [Wanderers](https://www.npr.org/2019/07/06/738974776/these-wanderers-are-heading-for-the-end-of-the-world), by Chuck Wendig
 * [It Would Be Night in Caracas](https://www.npr.org/2019/10/28/771313679/it-would-be-night-in-caracas-mourns-a-mother-and-a-country), by Karina Sainz Borgo
 * [Catch and Kill](https://www.npr.org/2019/10/11/768346770/in-catch-and-kill-ronan-farrow-offers-a-damning-portrait-of-a-conflicted-nbc), by Ronan Farrow
-* [Good to Go](https://www.amazon.com/Good-Go-Athlete-Strange-Recovery/dp/039325433X), by Christie,Aschwanden 
+* [Good to Go](https://www.amazon.com/Good-Go-Athlete-Strange-Recovery/dp/039325433X), by Christie Aschwanden 
 * [Death Wins A Goldfish](https://www.amazon.com/Death-Wins-Goldfish-Reflections-Sabbatical/dp/1452172552), by Brian Rea
 * [Recursion](https://www.npr.org/2019/06/13/732035142/recursion-is-a-puzzle-box-of-time-travel-memory-and-death), by Blake Crouch
 * [Slow Horses](https://crimefictionlover.com/2014/03/slow-horses-2/), by Mick Herron
