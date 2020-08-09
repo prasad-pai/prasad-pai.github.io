@@ -60,3 +60,4 @@ The links where available point to interesting reviews of the book. They are not
 * [Lady in the Lake](https://www.npr.org/2019/07/25/742220303/real-disappearances-are-the-premise-for-laura-lippmans-lady-in-the-lake/), by Laura Lippman
 * [My Lovely Wife](https://www.criminalelement.com/book-review-my-lovely-wife-samantha-downing/), by Samantha Downing
 * [They Called Us Enemy](https://www.npr.org/2019/07/17/742558996/george-takei-recalls-time-in-an-american-internment-camp-in-they-called-us-enemy), by George Takei
+* [The Shanghai Free Taxi](https://www.npr.org/2019/06/16/732365213/the-shanghai-free-taxi-delves-deep-into-chinas-troubles), Frank Langfitt
