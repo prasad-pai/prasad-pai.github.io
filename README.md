@@ -1,7 +1,7 @@
 # Reading List
 
 This list keeps track of the books I have read starting the year 2020.
-The links where available point to interesting reviews of the book. They are not necessarily why I read them. It is likely that I found them on various book lists or just happened to read a synopsis of the dust jacket. 
+The links where available point to interesting reviews of the book. A few of thelinks point to amazon.com because I most likely picked up these books on a whim.
 
 ## Currently Reading
 * The Book of Illusions, Paul Auster
@@ -23,7 +23,7 @@ The links where available point to interesting reviews of the book. They are not
 1. [It Would Be Night in Caracas](https://www.npr.org/2019/10/28/771313679/it-would-be-night-in-caracas-mourns-a-mother-and-a-country), by Karina Sainz Borgo
 1. [Catch and Kill](https://www.npr.org/2019/10/11/768346770/in-catch-and-kill-ronan-farrow-offers-a-damning-portrait-of-a-conflicted-nbc), by Ronan Farrow
 1. [Good to Go](https://www.amazon.com/Good-Go-Athlete-Strange-Recovery/dp/039325433X), by Christie Aschwanden 
-1. [Death Wins A Goldfish](https://www.amazon.com/Death-Wins-Goldfish-Reflections-Sabbatical/dp/1452172552), by Brian Rea
+1. [Death Wins A Goldfish](https://nerdsonearth.com/2020/05/uncommon-graphic-novel-death-wins-a-goldfish/), by Brian Rea
 1. [Recursion](https://www.npr.org/2019/06/13/732035142/recursion-is-a-puzzle-box-of-time-travel-memory-and-death), by Blake Crouch
 1. [Slow Horses](https://crimefictionlover.com/2014/03/slow-horses-2/), by Mick Herron
 1. [A Carnival of Losses](https://thegeorgiareview.com/posts/on-a-carnival-of-losses-notes-nearing-ninety-by-donald-hall/), by Donald Hall
@@ -40,7 +40,7 @@ The links where available point to interesting reviews of the book. They are not
 1. [Trick Mirror](https://slate.com/culture/2019/08/jia-tolentino-book-review-trick-mirror-reflections-on-self-delusion.html), by Jia Tolentino 
 1. [The Future of Another Timeline](https://comicyears.com/books/the-future-of-another-timeline-review/), by Annalee Newitz 
 1. [The Third Policeman](http://www.bookslut.com/fiction/2003_12_001145.php), by Flann O'Brien
-1. [The Callahan Chronicals](https://www.amazon.com/Callahan-Chronicals-Spider-Robinson/dp/0812539370), by Spider Robinson
+1. [The Callahan Chronicals](https://www.librarything.com/work/732408), by Spider Robinson
 1. [Fleishman is in Trouble](https://www.npr.org/2019/06/18/733430304/fleishman-is-in-trouble-flips-expectations-upside-down), by Taffy Brodesser-Akner
 1. [The 7 1/2 Deaths of Evelyn Hardcastle](https://crimefictionlover.com/2018/03/the-seven-deaths-of-evelyn-hardcastle/), by Stuart Turton
 1. [Quichotte](https://www.npr.org/2019/09/07/755162016/if-salman-rushdies-quichotte-drives-you-nuts-thats-fine-its-meant-to/), by Salman Rushdie
