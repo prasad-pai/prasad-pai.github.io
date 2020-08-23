@@ -1,7 +1,7 @@
 # Reading List
 
 This list keeps track of the books I have read starting the year 2020.
-The links where available point to interesting reviews of the book. A few of thelinks point to amazon.com because I most likely picked up these books on a whim.
+The links where available point to interesting reviews of the book. A few of the links point to amazon.com because I most likely picked up these books on a whim.
 
 Books that I liked are marked with an asterisk.
 
