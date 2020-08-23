@@ -14,8 +14,8 @@ My aim is to read as many books as possible from the [1001 Books: You Must Read 
 
 
 ## 2020
-1. [10 Minutes 38 Seconds in This Strange World](), by Elif Shafak
-1. [The Book of Illusions](https://www.theguardian.com/books/2002/sep/29/fiction.impacprizei), by Paul Auster
+1. [10 Minutes 38 Seconds in This Strange World](https://lareviewofbooks.org/article/representative-foreigners-on-elif-shafaks-10-minutes-38-seconds-in-this-strange-world/), by Elif Shafak
+1. [The Book of Illusions](https://www.theguardian.com/books/2002/sep/29/fiction.impacprize), by Paul Auster
 1. [Shadow & Claw](https://ultan.org.uk/review-botns/), by Gene Wolfe<sup>\*</sup>
 1. [A Visit From the Goon Squad](https://www.nytimes.com/2010/07/11/books/review/Blythe-t.html), by Jennifer Egan
 1. [The Inheritance of Loss](https://bookmarks.reviews/reviews/the-inheritance-of-loss/), by Kiran Desai<sup>\*</sup>
