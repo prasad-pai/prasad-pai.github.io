@@ -8,15 +8,17 @@ Books that I liked are marked with an asterisk.
 My aim is to read as many books as possible from the [1001 Books: You Must Read Before You Die](https://www.listchallenges.com/1001-books-you-must-read-2018)
 
 ## Currently Reading
-* Crime and Punishment, by Fyodor Dostoyevsky
-* Lifespan, by David Sinclair
-* Sword & Citadel, by Gene Wolfe
+* Moneyland, by Oliver Bullough
+* The Undying: Pain,Vulnerability,Mortality,Medicine,Art,Time,Dreams,Data,Exhaustion,Cancer,and Care, by Anne Boyer
 
 
 ## 2020
+1. [Crime and Punishment](https://en.wikipedia.org/wiki/Crime_and_Punishment), by Fyodor Dostoyevsky
 1. [10 Minutes 38 Seconds in This Strange World](https://lareviewofbooks.org/article/representative-foreigners-on-elif-shafaks-10-minutes-38-seconds-in-this-strange-world/), by Elif Shafak
 1. [The Book of Illusions](https://www.theguardian.com/books/2002/sep/29/fiction.impacprize), by Paul Auster
-1. [Shadow & Claw](https://ultan.org.uk/review-botns/), by Gene Wolfe<sup>\*</sup>
+1. [The Book of the New Sun](https://ultan.org.uk/review-botns/), by Gene Wolfe<sup>\*</sup>
+   1. Shadow and Claw
+   1. Sword and Citadel 
 1. [A Visit From the Goon Squad](https://www.nytimes.com/2010/07/11/books/review/Blythe-t.html), by Jennifer Egan
 1. [The Inheritance of Loss](https://bookmarks.reviews/reviews/the-inheritance-of-loss/), by Kiran Desai<sup>\*</sup>
 1. [The Reluctant Fundamentalist](https://lithub.com/why-every-american-should-read-the-relucant-fundamentalist/), by Mohsin Ahmad 
