@@ -8,8 +8,8 @@ Books that I liked are marked with an asterisk.
 My aim is to read as many books as possible from the [1001 Books: You Must Read Before You Die](https://www.listchallenges.com/1001-books-you-must-read-2018)
 
 ## Currently Reading
-* Moneyland, by Oliver Bullough
-* The Undying: Pain,Vulnerability,Mortality,Medicine,Art,Time,Dreams,Data,Exhaustion,Cancer,and Care, by Anne Boyer
+* Wild Game, by Adrienee Brodeur
+* The Wolf and the Watchman, by Natt Och Dag, Niklas
 
 
 ## 2020
@@ -72,3 +72,14 @@ My aim is to read as many books as possible from the [1001 Books: You Must Read 
 1. [My Lovely Wife](https://www.criminalelement.com/book-review-my-lovely-wife-samantha-downing/), by Samantha Downing<sup>\*</sup>
 1. [They Called Us Enemy](https://www.npr.org/2019/07/17/742558996/george-takei-recalls-time-in-an-american-internment-camp-in-they-called-us-enemy), by George Takei<sup>\*</sup>
 1. [The Shanghai Free Taxi](https://www.npr.org/2019/06/16/732365213/the-shanghai-free-taxi-delves-deep-into-chinas-troubles), by Frank Langfitt
+1. [Moneyland](https://www.theguardian.com/books/2018/sep/07/moneyland-oliver-bullough-review), by Oliver Bullough
+1. [The Undying: Pain,Vulnerability,Mortality,Medicine,Art,Time,Dreams,Data,Exhaustion,Cancer,and Care](https://lareviewofbooks.org/article/pain-as-revolution-on-anne-boyers-the-undying/), by Anne Boyer
+1. [The Hard Tomorrow](https://drawnandquarterly.com/hard-tomorrow), by Eleanor Davis
+1. [The Blind Assassin](https://quillandquire.com/review/the-blind-assassin/), by Margaret Atwood
+1. [The Broken Earth trilogy](https://arstechnica.com/gaming/2017/09/if-you-read-one-sci-fi-series-this-year-it-should-be-the-broken-earth/), by N.K. Jemisin<sup>\*</sup>
+    1. The Fifth Season
+    1. The Obelisk Gate
+    1. The Stone Sky
+1. [American Spy](https://www.npr.org/2019/02/13/693617293/american-spy-is-a-unique-spin-on-the-cold-war-thriller), by Lauren Wilkinson
+1. [Sex and Vanity](https://literarytreats.com/2020/07/20/review-sex-and-vanity-kevin-kwan/), by Kevin Kwan
+1. [Salvation of a Saint](https://www.kirkusreviews.com/book-reviews/keigo-higashino/salvation-saint/), by Keigo Higashino
