@@ -73,7 +73,7 @@ My aim is to read as many books as possible from the [1001 Books: You Must Read 
 1. [They Called Us Enemy](https://www.npr.org/2019/07/17/742558996/george-takei-recalls-time-in-an-american-internment-camp-in-they-called-us-enemy), by George Takei<sup>\*</sup>
 1. [The Shanghai Free Taxi](https://www.npr.org/2019/06/16/732365213/the-shanghai-free-taxi-delves-deep-into-chinas-troubles), by Frank Langfitt
 1. [Moneyland](https://www.theguardian.com/books/2018/sep/07/moneyland-oliver-bullough-review), by Oliver Bullough
-1. [The Undying: Pain,Vulnerability,Mortality,Medicine,Art,Time,Dreams,Data,Exhaustion,Cancer,and Care](https://lareviewofbooks.org/article/pain-as-revolution-on-anne-boyers-the-undying/), by Anne Boyer
+1. [The Undying: Pain,Vulnerability,Mortality,Medicine,Art,Time,Dreams,Data,Exhaustion,Cancer,and Care](https://lareviewofbooks.org/article/pain-as-revolution-on-anne-boyers-the-undying/), by Anne Boyer<sup>\*</sup>
 1. [The Hard Tomorrow](https://drawnandquarterly.com/hard-tomorrow), by Eleanor Davis
 1. [The Blind Assassin](https://quillandquire.com/review/the-blind-assassin/), by Margaret Atwood
 1. [The Broken Earth trilogy](https://arstechnica.com/gaming/2017/09/if-you-read-one-sci-fi-series-this-year-it-should-be-the-broken-earth/), by N.K. Jemisin<sup>\*</sup>
