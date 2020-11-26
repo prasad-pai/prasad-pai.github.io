@@ -17,14 +17,14 @@ My aim is to read as many books as possible from the [1001 Books: You Must Read 
 
 ## 2020
 1. [Wild Game](https://www.nytimes.com/2019/10/15/books/review/wild-game-adrienne-brodeur.html), by Adrienee Brodeur
-1. [The Wolf and the Watchman](https://www.npr.org/2019/03/06/698659316/the-wolf-and-the-watchman-has-some-serious-bite), by Nicklas Natt Och Dat 
+1. [The Wolf and the Watchman](https://www.npr.org/2019/03/06/698659316/the-wolf-and-the-watchman-has-some-serious-bite), by Nicklas Natt Och Dat<sup>\*</sup>
 1. [Uncanny Valley](https://slate.com/culture/2020/01/anna-wiener-uncanny-valley-reviewed.html), by Anna Wiener
 1. [Here we are](https://www.npr.org/2019/10/01/765702621/in-here-we-are-heart-rending-challenges-of-immigration-are-exposed), by Aarti Namdev Shahani
-1. [Behind the Beautiful Forevers](https://www.kirkusreviews.com/book-reviews/katherine-boo/behind-beautiful-forevers/), by Katherine Boo <sup>\*</sup>
+1. [Behind the Beautiful Forevers](https://www.kirkusreviews.com/book-reviews/katherine-boo/behind-beautiful-forevers/), by Katherine Boo<sup>\*</sup>
 1. [Shogun](https://en.wikipedia.org/wiki/Sh%C5%8Dgun_(novel)), by James Clavell <sup>\*</sup>
 1. [Kindred](https://lithub.com/octavia-butler-the-brutalities-of-the-past-are-all-around-this/), by Octavia Butler<sup>\*</sup>
 1. [My Own Devices](https://www.thecurrent.org/feature/2018/10/02/dessa-my-own-devices), by Dessa
-1. [Crime and Punishment](https://en.wikipedia.org/wiki/Crime_and_Punishment), by Fyodor Dostoyevsky
+1. [Crime and Punishment](https://en.wikipedia.org/wiki/Crime_and_Punishment), by Fyodor Dostoyevsky<sup>\*</sup>
 1. [10 Minutes 38 Seconds in This Strange World](https://lareviewofbooks.org/article/representative-foreigners-on-elif-shafaks-10-minutes-38-seconds-in-this-strange-world/), by Elif Shafak
 1. [The Book of Illusions](https://www.theguardian.com/books/2002/sep/29/fiction.impacprize), by Paul Auster
 1. [The Book of the New Sun](https://ultan.org.uk/review-botns/), by Gene Wolfe<sup>\*</sup>
