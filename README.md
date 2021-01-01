@@ -5,17 +5,24 @@ The links where available point to interesting reviews of the book. A few of the
 
 Books that I liked are marked with an asterisk.
 
-My aim is to read as many books as possible from the [1001 Books: You Must Read Before You Die](https://www.listchallenges.com/1001-books-you-must-read-2018)
 
 ## Currently Reading
-* Musashi, by Eiji Yoshikawa
-* The Education of An Idealist, by Samantha Power
-* The Empire and the Five Kings , by Bernard-Henri Levy
-* Liars and Outliers , by Bruce Schneier
-* Acid for the Children , by Flea
+* The Secrets We Kept, by Lara Prescott
 
 
 ## 2020
+1. A shadow intelligence, by Oliver Harris<sup>\*</sup>
+1. World Without Mind, by Franklin Foer
+1. Apsara Engine, by Baisakh Som
+1. Year of the Rabbit, by Tian<sup>\*</sup>
+1. Banned Book Club, by Hyun Sook Kim
+1. Processed Cheese, by Stephen Wright<sup>\*</sup>
+1. Black Sunday, by Tola Rotimi Abraham
+1. Serpentine, by Philip Pullman
+1. The Pigeon Tunnel, by John Le Carre<sup>\*</sup>
+1. Conjure Women, by Afia Atakora
+1. Amnesty, by Aravind Adiga
+1. Musashi, by Eiji Yoshikawa<sup>\*</sup>
 1. [Wild Game](https://www.nytimes.com/2019/10/15/books/review/wild-game-adrienne-brodeur.html), by Adrienee Brodeur
 1. [The Wolf and the Watchman](https://www.npr.org/2019/03/06/698659316/the-wolf-and-the-watchman-has-some-serious-bite), by Nicklas Natt Och Dat<sup>\*</sup>
 1. [Uncanny Valley](https://slate.com/culture/2020/01/anna-wiener-uncanny-valley-reviewed.html), by Anna Wiener
