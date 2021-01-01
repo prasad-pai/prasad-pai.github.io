@@ -17,7 +17,7 @@ Books that I liked are marked with an asterisk.
 1. Year of the Rabbit, by Tian<sup>\*</sup>
 1. Banned Book Club, by Hyun Sook Kim
 1. Processed Cheese, by Stephen Wright<sup>\*</sup>
-1. Black Sunday, by Tola Rotimi Abraham
+1. Black Sunday, by Tola Rotimi Abraham<sup>\*</sup>
 1. Serpentine, by Philip Pullman
 1. The Pigeon Tunnel, by John Le Carre<sup>\*</sup>
 1. Conjure Women, by Afia Atakora
