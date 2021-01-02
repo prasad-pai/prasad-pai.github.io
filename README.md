@@ -7,10 +7,12 @@ Books that I liked are marked with an asterisk.
 
 
 ## Currently Reading
-* The Secrets We Kept, by Lara Prescott
+
+
 
 
 ## 2020
+1. The Secrets We Kept, by Lara Prescott<sup>\*</sup>
 1. A shadow intelligence, by Oliver Harris<sup>\*</sup>
 1. World Without Mind, by Franklin Foer
 1. Apsara Engine, by Baisakh Som
