@@ -1,12 +1,23 @@
 # Reading List
 
 This list keeps track of the books I have read starting the year 2020.
-The links where available point to interesting reviews of the book. A few of the links point to amazon.com because I most likely picked up these books on a whim.
 
 Books that I liked are marked with an asterisk.
 
 
 ## Currently Reading
+1. Hyperion, by Dan Simmons
+
+
+## 2021
+1. Djinn Patrol on the Purple Line, by Deepa Anappara
+1. The Anarchy, by William Dalrymple<sup>\*</sup>
+1. Freedom, by Jonathan Franzen
+1. Hamnet, by Maggie O'Farrell<sup>\*</sup>
+1. Members Only, by Sameer Pandya
+1. The Alice Network, by Kate Quinn<sup>\*</sup>
+1. All Systems Red, by Martha Wells
+1. The Lying Life of Adults, by Elena Ferrante<sup>\*</sup>
 
 
 
