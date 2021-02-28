@@ -14,8 +14,8 @@ Books that I liked are marked with an asterisk.
 1. All the Way to the Tigers, by Mary Morris
 1. How not to Die, by Jan Garavaglia
 1. The Daughters of Ys, by M.T Anderson
-1. The Savage Detectives, by Roberto Bolano
-1. The Argonauts, by Maggie Nelson
+1. The Savage Detectives, by Roberto Bolano<sup>\*</sup>
+1. The Argonauts, by Maggie Nelson<sup>\*</sup>
 1. Hyperion, by Dan Simmons
 1. Djinn Patrol on the Purple Line, by Deepa Anappara
 1. The Anarchy, by William Dalrymple<sup>\*</sup>
