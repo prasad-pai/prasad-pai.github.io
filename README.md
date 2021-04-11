@@ -14,6 +14,16 @@ Books that I liked are marked with an asterisk.
 
 
 ## 2021
+1. Klara and the Sun, by Kazuo Ishiguro<sup>\*</sup>
+1. Billy Lynn's Long Halftime Walk, by Ben Fountain<sup>\*</sup>
+1. Homesick for Another World, by Ottessa Moshfegh
+1. Looking for Alaska, by John Green
+1. The Mission Song, by John Le Carre<sup>\*</sup>
+1. The Rosie Effect, by Graeme Swanson
+1. The Rosie Project, by Graeme Swanson<sup>\*</sup>
+1. A Burning, by Megha Majumdar
+1. The Possessed, by Elif Batuman
+1. Outline, by Rachel Cusk
 1. The Socrates Express, by Eric Weiner
 1. Almost American Girl, by Robin Ha
 1. Leaving the Atocha Station, by Ben Lerner
