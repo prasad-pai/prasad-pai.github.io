@@ -6,11 +6,18 @@ Books that I liked are marked with an asterisk.
 
 
 ## Currently Reading
-1. Leaving the Atocha Station, by Ben Lerner
-1. Bluebeard's First Wife, by Song-nan Ha
+1. How Should A Person Be?, by Sheila Heti
+1. Breasts and Eggs, by Mieko Kawakami
+1. Where the Wild Ladies Are, by Aoko Matsuda
+1. The Talented Miss Farwell, by Emily Gray Tedrowe
+
 
 
 ## 2021
+1. The Socrates Express, by Eric Weiner
+1. Almost American Girl, by Robin Ha
+1. Leaving the Atocha Station, by Ben Lerner
+1. Bluebeard's First Wife, by Song-nan Ha
 1. All the Way to the Tigers, by Mary Morris
 1. How not to Die, by Jan Garavaglia
 1. The Daughters of Ys, by M.T Anderson
