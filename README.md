@@ -1,11 +1,323 @@
 # Reading List
 
-This list keeps track of the books I have read starting the year 2020.
 
-Books that I liked are marked with an asterisk.
+1. Where are you really from by Elaine Chou
+1. Middlemarch by George Eliot
+1. Mother Mary comes to me by Arundhati Roy
+1. Super Agers by Eric Topol
+1. My Antonia by Willa Cather
+1. I is Another by Jon Fosse
+1. The other name by Jon Fosse
+1. The World's greatest detective by Caroline Carlson
+1. Liquid by Mariam Rahmani
+1. Earth to Moon by Moon Unit Zappa
+1. The Everlasting by Alix E Harrow
+1. Cold Comfort Farm by Stella Gibbons
+1. The Land in Winter by Andrew Miller
+1. All that Man is by David Szalay
+1. Body by Science by John R. Little
+1. Heart Lamp by Banu Mushtaq
+1. Victorian Pscyho by Virginia Feito
+1. The Remains of the Day by Kazuo Ishiguro
+1. Liars by Sarah Manguso
+1. Apropos of Nothing by Woody Allen
+1. Marble Hall Murders by Anthony Horowitz
+1. Pietr the Latvian by Georges Simenon
+1. The Rose Field by Philip Pullman
+1. Flesh by David Szalay
+1. King Sorrow by Joe Hill
+1. Giovanni's Room by James Baldwin
+1. On the Calculation of Volume 1 by Solvej Balle
+1. Whose Body? by Dorothy Sayers
+1. The Train by Georges Simeon
+1. The Stond Diaries by Carol Shields
+1. The Door by Magda Szabo
+1. The Corrections by Jonathan Franzen
+1. Daoemon Voices by Philip Pullman
+1. The Women by Kristin Hannah
+1. A talent for Murder by Peter Swanson
+1. Great Expectations by Vinson Cunningham
+1. Killing Moon by Jo Nesbo
+1. Normal People by Sally Rooney
+1. Some can Whistle by Larry McMurtry
+1. Hard Rain Falling by Don Carpenter
+1. The Hollywood Trilogy by Don Carpenter
+1. All my Friends are going to be strangers by Larry McMurtry
+1. Who Is Government by Michael Lewis
+1. The Unexpurgated Code by J.P. Donleavy
+1. Going infinite by Michael Lewis
+1. The Journey to the West, Volume 1 by Anthony Yu
+1. A philosophical investigation by Philip Kerr
+1. Deep End by Ali Hazelwood
+1. Slouching towards Bethlehem by Joan Didion
+1. The Prestige by Christopher Priest
+1. It Can't Happen here by Sinclair Lewis
+1. The Details by Ia Genberg
+1. The Emperor of All Maladies by Siddhartha Mukherjee
+1. Kairos by Jenny Erpenbeck
+1. Anansi's Gold by Yepoka Yeebo
+1. The Bright Sword by Lev Grossman
+1. My Brilliant Life by Ae-ran Kim
+1. The Book of Ayn by Lexi Freiman
+1. Slow Horses by Mick Herron
+1. An Academy for Liars by Alexis Henderson
+1. The Rachel Incident by Caroline O'Donoghue
+1. Bruce Lee Artist of Life by Bruce Lee
+1. 
+1. Little Rot by Akwaeke Emezi
+1. The Math of Life and Death by Kit Yates
+1. Thinking in Bets by Annie Duke
+1. Permutation City by Greg Egan
+1. Can you solve my problems by Alex Bellos
+1. Demon Copperhead by Barbara Kingsolver
+1. The Fury by Alex Michaelides
+1. Still the Mind by Alan Watts
+1. Human Acts by Han Kang
+1. Death at the sign of the Rook by Kate Atkinson
+1. The White Book bu Han Kang
+1. Greek Lessons by Han Kang
+1. The Fry Chronicles by Stephen Fry
+1. Quiet by Susan Cain
+1. Red Rising by Pierce Brown
+1. Barney's version by Mordecai Richler
+1. Wild Houses by Colin Barrett
+1. All Fours by Miranda July
+1. The Sleepwalkers by Scarlett Thomas
+1. All the birds in the Sky by Charlie Jane Anders
+1. Julia by Sandra Newman
+1. Long Island Compromise by Taffy Brodesser-Akner
+1. Before the Coffee gets cold by Toshikazu Kawaguchi
+1. Skulduggerry Pleasant by Derek Landy
+1. The Long Earth by Terry Pratchett
+1. Lord Jim at home by Dinah Brooke
+1. Yips by Nicola Barker
+1. The Wizard of the Kremlin by Giuliano da Empoli
+1. We by Yevgeny Zamyatin
+1. The Ministry of time by Kaliane Bradley
+1. Good Behavior by Molly Keane
+1. The Running Grave by Robert Galbraith
+1. Dataclysm by Christian Rudder
+1. Doppelganger by Naomi Klein
+1. Wild seed by Octavia E.Butler
+1. The Warehouse by Rob Hart
+1. Gene Machine by Venki Ramakrishnan
+1. My man Jeeves by P.G.Wodehouse
+1. A desolation called peace by Arkady Martine
+1. Natural beauty by Ling Ling Huang
+1. The Guest by Emma Cline
+1. Fifty grand by Adrain Mckinty
+1. Looking Glass sound by Catriona Ward
+1. Do you remember being born by Sean Michaels
+1. A ghost in the throat by Doireann Ni Chriofa
+1. The circumference of the world by Lavie Tidhar
+1. Ferdydurke by Witold Gombrowicz
+1. Turtles all the Way Down by John Green
+1. The Decagon House Murders by Yukito Ayatsuji
+1. The Good Soldier svejk by Jaroslav Hasek
+1. This is not Miami by Fernanda Melchor
+1. Age of vice by Deepti Kapoor
+1. Stolen by Ann-Helen Laestadius
+1. A little life by Hanya Yanagihara
+1. Consider Phlebas by Iain M. Banks
+1. Transtion by Iain M. Banks
+1. Life and Death in the Andes by Kim MacQuarrie
+1. China,India and the United States by Peter Rodriguez
+1. The Testaments by Margaret Atwood
+1. Sometimes a Great Notion by Ken Kesey
+1. The Handmaid's Tale by Margaret Atwood
+1. The Wind-Up Bird Chronicle by Haruki Murakami
+1. God Economics for Hard TImes by Abhijit Banerjee
+1. The Covenant of Water by Abraham Verghese
+1. My Broken Language by Quiara Alegria Hudes
+1. 1Q84 by Haruki Murakami
+1. The Elephant Vanishes by Haruki Murakami
+1. The Gene by Siddhartha Murkherjee
+1. The Brothers Karamazov by Fyodor Dostoevsky
+1. Kafa on the shore by Haruki Murakami
+1. The Order of Time by Carlo Rovelli
+1. The Unbearable Lightness of Being by Milan Kundera
+1. Half of a Yello Sun by Chimamanda Ngozi by Adichie
+1. The Forty Rules of Love by Elif Shafa
+1. The Stranger by Albert Camus
+1. A brief history of everyone who ever lived by Adam Rutherford
+1. Norwegian Wood by Haruki Murakami
+1. Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin
+1. Love Marriage by Monica Ali
+1. 2 A.M in Little America by Ken Kalfus
+1. This time tomorrow by Emma Straub
+1. Shrines of Gaiety by Kate Atkinson
+1. Wahala by Nikki May
+1. An Island by Karen Jennings
+1. Hondo by Lous L'Amour
+1. She who became the sun by Shelley Parker-Chan
+1. The man who folded himself by David Gerrold
+1. Killing Commendatore by Haruki Murakami
+1. We Don't know Ourselves by Fintan O'Toole
+1. The Orchard by Kristina Gorcheva-Newberry
+1. Trouble the saints by Alaya Dawn Johnson
+1. Joseph Anton by Salman Rushdie
+1. Upgrade by Blake Crouch
+1. The Paris Apartment by Lucy Foley
+1. Lessons by Ian McEwan
+1. Dr.No by Percival Everett
+1. Disorientation by Elaine Hsieh Chou
+1. Scattered all over the earth by Yoko Tawada
+1. The Paradox Hotel by Rob Hart
+1. High Times in the low parliament by Kelly Robson
+1. The devil takes you home by Gabino Iglesias
+1. Paradais by Fernanda Melchor
+1. The trees by Percival Everett
+1. The verifiers by Jane Pek
+1. The angel of rome by Jess walter
+1. The immortal king Rao by Vauhini Vara
+1. Parable of the Sower by Octavia E. Butler
+1. The Seven Moons of Maali Almeida by Shehan Karunatilaka
+1. The best of Me by David Sedaris
+1. The marriage portrait by Maggie O'Farrell
+1. The thousand autumns of Jacob De Zoet by David Mitchell
+1. The Book thief by Markus Zusak
+1. The Buddha in the attic by Julie Otsuka
+1. Small things like these by Claire Keegan
+1. Night watch by Terry Pratchett
+1. Days without end by Sebastian Barry
+1. The Startup Wife by Tahmima Anam
+1. 4 3 2 1 by Paul Auster
+1. Priestdaddy by Patricia Lockwood
+1. The silence of the girls by Pat Barker
+1. The Infatuations by Javier Marias
+1. What was she thinking by Zoe Helloer
+1. Crossroads by Jonathan Franzen
+1. The Lincoln Highway by Amor Towles
+1. The girl from everywhere by Heidi Heilig
+1. Silent Winds, dry seas by Vinod Busjeet
+1. Ishmael by Daniel Quinn
+1. Matrix by Lauren Groff
+1. The Plot against America by Philip Roth
+1. Austerlitz by W.G Sebald
+1. The Idiot by Elif Batuman
+1. Gilead by Marilynne Robinson
+1. Wolf Hall by Hilary Mantel
+1. Lonesome Dove by Larry Mcmurtry
+1. Fates and Furies by Lauren Groff
+1. French Exit by Patrick DeWitt
+1. The Sisters Brothers by Patrick DeWitt
+1. The Tiger's Wife by Tea Obreht
+1. Yearbok by Seth Rogen
+1. Hell of a book by Jason Mott
+1. Our woman in Moscow by Beatrix Williams
+1. Abundance by Jakob Guanzon
+1. Cloud Cuckoo Land by Anthony Doerr
+1. Intiamacies by Katie Kitamura
+1. Firebrak by Nicole Kornher-Stace
+1. The Archer by Shruti Swamy
+1. Apples never fall by Liane Moriarty
+1. I know why the caged bird sings by Maya Angelou
+1. The books of Jacob by Olga Tokarczuk
+1. Death of a red heroine by Qiu Xialong
+1. The man with a load of mischief by Martha Grimes
+1. Billy Summers by Stephen King
+1. The Widows of Malabar Hill by Sujata Massey
+1. The Beekeeper's Apprentice
+1. The Coroner's Lunch by Colin Cotterill
+1. The Prime of Miss Jean Brodie by Muriel Spark
+1. The Actual Star by Monica Byrne
+1. Just as I am by Cicely Tyson
+1. The Gone World by Tom Sweterlitsch
+1. Anatomy of a murdre by Robert Traver
+1. The Eye of the world by Robert Jordan
+1. Jim Henson's Tale of Sand by Pérez, Ramón
+1. The Dentist by Sullivan, Tim
+1. The Method by Quirk, Matthew 
+1. The Sad Ghost Club by Meddings, Lize 
+1. Unhinged USA Political Cartoons & Commentary by Horsey, Dave
+1. Entitlement by Alam, Rumaan
+1. Everybody Wants to Rule the World by Atkins, Ace 
+1. The Book of Alchemy A Creative Practice for An Inspired Life by Jaouad, Suleika
+1. You Can Draw It in Just 30 Minutes See It and Sketch It in A Half-hour or Less
+1. by Kistler, Mark 
+1. When the Moon Hits your Eye by Scalzi, John
+1. A Billion Wicked Thoughts by Ogas, Ogi
+1. Shadow Ticket by Pynchon, Thomas 
+1. An Instance of the Fingerpost by Pears, Iain 
+1. Tongues Book 1 by Nilsen, Anders
+1. A Man by Hirano, Keiichirō
+1. The Book of Records by Thien, Madeleine
+1. Phantom Orbit by Ignatius, David 
+1. The Dream Hotel by Lalami, Laila 
+1. Nobody's Baby by Waite, Olivia 
+1. Every Day I Read by Hwang, Po-rŭm 
+1. Spent by Bechdel, Alison 
+1. Book of Lives by Atwood, Margaret
+1. Buckeye by Ryan, Patrick 
+1. When Everyone Knows That Everyone Knows by Pinker, Steven 
+1. What We Can Know by McEwan, Ian
+1. Replaceable You by Roach, Mary
+1. I Who Have Never Known Men by Harpman, Jacqueline
+1. Vigil by Saunders, George
+1. Maggie; Or, A Man and A Woman Walk Into A Bar by Yee, Katie 
+1. A Guardian and A Thief by Majumdar, Megha 
+1. Mona's Eyes by Schlesser, Thomas 
+1. Flashlight by Choi, Susan 
+1. How to End A Story by Garner, Helen
+1. On A Sunbeam by Walden, Tillie 
+1. Eating Việt Nam by Holliday, Graham
+1. Do I Know You? by Dingfelder, Sadie 
+1. The Sense of Style by Pinker, Steven 
+1. Criminal The Deluxe Edition. Volume Three by Brubaker, Ed 
+1. Bitch Planet Book One, Extraordinary Machine by DeConnick, Kelly Sue 
+1. Vernon Subutex 1 by Despentes, Virginie 
+1. The Mind Electric A Neurologist on the Strangeness and Wonder of Our Brains by Anand, Pria 
+1. Mafalda by Quino
+1. The Loneliness of Sonia and Sunny by Desai, Kiran 
+1. Criminal The Deluxe Edition. Volume Two by Brubaker, Ed 
+1. Feeding Ghosts by Hulls, Tessa 
+1. Criminal The Deluxe Edition. Volume One by Brubaker, Ed 
+1. The Politics of the Family and Other Essays by Laing, R. D. 
+1. A Novel Murder by Nevin, E. C.
+1. Notes to John by Didion, Joan 
+1. The Demon-haunted World by Sagan, Carl 
+1. The Spire by Spurrier, Simon 
+1. Life Drawing by Hernandez, Jaime 
+1. The Man Without Talent by Tsuge, Yoshiharu 
+1. Apocalypse Never by Shellenberger, Michael
+1. Factfulness by Rosling, Hans 
+1. How to Lie With Statistics by Huff, Darrell 
+1. Being Wrong by Schulz, Kathryn
+1. To Hold up the Sky by Liu, Cixin 
+1. A View From the Stars by Liu, Cixin 
+1. The Denial of Death by Becker, Ernest 
+1. Culpability by Holsinger, Bruce W.
+1. Crucial Conversations by Grenny, Joseph 
+1. Life in Three Dimensions by Oishi, Shigehiro 
+1. Democracy for Realists by Achen, Christopher H. 
+1. Poe for your Problems by Baab-Muguira, Catherine 
+1. The Case of the Missing Men by Bertin, Kris 
+1. The Art of Logic in An Illogical World by Cheng, Eugenia 
+1. Supernova Era by Liu, Cixin 
+1. How to Solve your Own Murder by Perrin, Kristen 
+1. Vice and Virtue by Klein, Libby 
+1. Socratic Logic by Kreeft, Peter 
+1. James by Everett, Percival 
+1. The God of the Woods by Moore, Liz
+1. Meditations for Mortals by Burkeman, Oliver
+1. Blessed Be by Altergott, Rick
+1. Flourishing Kin by Celidwen, Yuria 
+1. Starport by Martin, George R. R.
+1. Good Material by Alderton, Dolly
+1. The Empusium by Tokarczuk, Olga 
+1. Saladology by Kirwan, Theo
+1. The Silence of the Choir by Sarr, Mohamed Mbougar 
+1. Some Desperate Glory by Tesh, Emily 
+1. Here One Moment by Moriarty, Liane
+1. Creation Lake by Kushner, Rachel 
+1. Us Fools by Lange, Nora
+1. Drawing on the Right Side of the Brain by Edwards, Betty 
+1. Polostan by Stephenson, Neal
+1. Past Tense by Mardou 
+1. Brownstone by Teer, Samuel 
+1. Sister Snake by Lee Koe, Amanda 
+1. The Book of George by Greathead, Kate
 
-
-## Currently Reading
 1. How Should A Person Be?, by Sheila Heti
 1. Breasts and Eggs, by Mieko Kawakami
 1. Where the Wild Ladies Are, by Aoko Matsuda
