@@ -1,6 +1,6 @@
 # Reading List
 
-
+##2022-2026
 1. Where are you really from by Elaine Chou
 1. Middlemarch by George Eliot
 1. Mother Mary comes to me by Arundhati Roy
@@ -63,7 +63,6 @@
 1. An Academy for Liars by Alexis Henderson
 1. The Rachel Incident by Caroline O'Donoghue
 1. Bruce Lee Artist of Life by Bruce Lee
-1. 
 1. Little Rot by Akwaeke Emezi
 1. The Math of Life and Death by Kit Yates
 1. Thinking in Bets by Annie Duke
@@ -317,7 +316,6 @@
 1. Brownstone by Teer, Samuel 
 1. Sister Snake by Lee Koe, Amanda 
 1. The Book of George by Greathead, Kate
-
 1. How Should A Person Be?, by Sheila Heti
 1. Breasts and Eggs, by Mieko Kawakami
 1. Where the Wild Ladies Are, by Aoko Matsuda
