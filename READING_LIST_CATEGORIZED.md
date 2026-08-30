@@ -1,7 +1,3 @@
----
-layout: default
-title: Categorized Reading List
----
 
 # Reading List Categorization
 
