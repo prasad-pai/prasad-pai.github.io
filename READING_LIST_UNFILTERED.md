@@ -15,6 +15,7 @@ This is a list of books I read.
 1. Middlemarch by George Eliot
 1. Mother Mary comes to me by Arundhati Roy
 1. Super Agers by Eric Topol
+1. Mrs.Dalloway by Virgina Woolf
 1. My Antonia by Willa Cather
 1. I is Another by Jon Fosse
 1. The other name by Jon Fosse
@@ -31,6 +32,39 @@ This is a list of books I read.
 1. The Remains of the Day by Kazuo Ishiguro
 1. Liars by Sarah Manguso
 1. Apropos of Nothing by Woody Allen
+
+1. Jim Henson's Tale of Sand by Pérez, Ramón
+1. The Dentist by Sullivan, Tim
+1. The Method by Quirk, Matthew 
+1. The Sad Ghost Club by Meddings, Lize 
+1. Unhinged USA Political Cartoons & Commentary by Horsey, Dave
+1. Entitlement by Alam, Rumaan
+1. Everybody Wants to Rule the World by Atkins, Ace 
+1. The Book of Alchemy A Creative Practice for An Inspired Life by Jaouad, Suleika
+1. You Can Draw It in Just 30 Minutes See It and Sketch It in A Half-hour or Less by Kistler, Mark 
+1. When the Moon Hits your Eye by Scalzi, John
+1. A Billion Wicked Thoughts by Ogas, Ogi
+1. Shadow Ticket by Pynchon, Thomas 
+1. An Instance of the Fingerpost by Pears, Iain 
+1. Tongues Book 1 by Nilsen, Anders
+1. A Man by Hirano, Keiichirō
+1. The Book of Records by Thien, Madeleine
+1. Phantom Orbit by Ignatius, David 
+1. The Dream Hotel by Lalami, Laila 
+1. Nobody's Baby by Waite, Olivia 
+1. Every Day I Read by Hwang, Po-rŭm 
+1. Spent by Bechdel, Alison 
+1. Book of Lives by Atwood, Margaret
+1. Buckeye by Ryan, Patrick 
+1. When Everyone Knows That Everyone Knows by Pinker, Steven 
+1. What We Can Know by McEwan, Ian
+1. Replaceable You by Roach, Mary
+1. I Who Have Never Known Men by Harpman, Jacqueline
+1. Vigil by Saunders, George
+1. Maggie; Or, A Man and A Woman Walk Into A Bar by Yee, Katie 
+1. A Guardian and A Thief by Majumdar, Megha
+
+## 2022 - 2025
 1. Marble Hall Murders by Anthony Horowitz
 1. Pietr the Latvian by Georges Simenon
 1. The Rose Field by Philip Pullman
@@ -230,42 +264,6 @@ This is a list of books I read.
 1. The Coroner's Lunch by Colin Cotterill
 1. The Prime of Miss Jean Brodie by Muriel Spark
 1. The Actual Star by Monica Byrne
-1. Just as I am by Cicely Tyson
-1. The Gone World by Tom Sweterlitsch
-1. Anatomy of a murdre by Robert Traver
-1. The Eye of the world by Robert Jordan
-1. Jim Henson's Tale of Sand by Pérez, Ramón
-1. The Dentist by Sullivan, Tim
-1. The Method by Quirk, Matthew 
-1. The Sad Ghost Club by Meddings, Lize 
-1. Unhinged USA Political Cartoons & Commentary by Horsey, Dave
-1. Entitlement by Alam, Rumaan
-1. Everybody Wants to Rule the World by Atkins, Ace 
-1. The Book of Alchemy A Creative Practice for An Inspired Life by Jaouad, Suleika
-1. You Can Draw It in Just 30 Minutes See It and Sketch It in A Half-hour or Less by Kistler, Mark 
-1. When the Moon Hits your Eye by Scalzi, John
-1. A Billion Wicked Thoughts by Ogas, Ogi
-1. Shadow Ticket by Pynchon, Thomas 
-1. An Instance of the Fingerpost by Pears, Iain 
-1. Tongues Book 1 by Nilsen, Anders
-1. A Man by Hirano, Keiichirō
-1. The Book of Records by Thien, Madeleine
-1. Phantom Orbit by Ignatius, David 
-1. The Dream Hotel by Lalami, Laila 
-1. Nobody's Baby by Waite, Olivia 
-1. Every Day I Read by Hwang, Po-rŭm 
-1. Spent by Bechdel, Alison 
-1. Book of Lives by Atwood, Margaret
-1. Buckeye by Ryan, Patrick 
-1. When Everyone Knows That Everyone Knows by Pinker, Steven 
-1. What We Can Know by McEwan, Ian
-1. Replaceable You by Roach, Mary
-1. I Who Have Never Known Men by Harpman, Jacqueline
-1. Vigil by Saunders, George
-1. Maggie; Or, A Man and A Woman Walk Into A Bar by Yee, Katie 
-1. A Guardian and A Thief by Majumdar, Megha
-
-## 2022 - 2025
 1. Mona's Eyes by Schlesser, Thomas 
 1. Flashlight by Choi, Susan 
 1. How to End A Story by Garner, Helen
@@ -362,6 +360,75 @@ This is a list of books I read.
 1. The Alice Network, by Kate Quinn<sup>\*</sup>
 1. All Systems Red, by Martha Wells
 1. The Lying Life of Adults, by Elena Ferrante<sup>\*</sup>
+1. Just as I am by Cicely Tyson
+1. The Gone World by Tom Sweterlitsch
+1. Anatomy of a murdre by Robert Traver
+1. The Eye of the world by Robert Jordan
+1. The Good Girls by Sonia Faleiro
+1. Blind Goddess by Anne Holt
+1. Motherless Brooklyn by Jonathan Lethem
+1. My Sister, the Serial Killer by Oyinkan Braithwaite
+1. The Expats by Chris Pavone
+1. Art of Deception by Nicholas Capaldi
+1. How to Think Like Sherlock by Daniel Smith
+1. The Pig that wants to be eaten by Julian Baggini
+1. Plato and a Platypus Walk Into a Bar by Thomas Cathcart
+1. Neuromancer by William Gibson
+1. A Fire upon the deep by Vernor Vinge
+1. The Burning God by R.F. Kuang
+1. A confedarcy of Dunces by John Kennedy Toole
+1. Exhalation by Ted Chiang
+1. The Echo Wife by Sarah Gailey
+1. From the Ruins of Empire by Pankaj Mishra
+1. Mexican Gothic by Siliva Moreno-Garcia
+1. The Dragon Republic by R.F. Kuang
+1. Blood Meridian by Cormac McCarthy
+1. Pachinko by Min Jin Lee
+1. Nothing to see here by Kevin Wilson
+1. A deadly Education by Naomi Novik
+1. Here We are by Graham Swift
+1. The Poppy War by R.F. Kuang
+1. The Westing game by Ellen Raskin
+1. Still Life by Louise Penny
+1. Where the Crawdads sing by Delia Owens
+1. Eat the Buddha by Barbara Demick
+1. The Midnight Library by Matt Haig
+1. World War Z by Max Brooks
+1. Daisy Jones & the Six by Taylor Jenkins Reid
+1. Space Opera by Catherynne M. Valente
+1. Johnny got his gun Dalton Trumbo
+1. Good Omens by Neil Gaiman, Terry Pratchett
+1. All Quiet on the Western Front by Erich Maria Remarque
+1. Hench by Natalie Zina Walschots
+1. Catherine House by Elisabeth Thomas
+1. Milkman by Anna Burns
+1. Barn 8 by Deb Olin Unferths
+1. A children's bible by Lydia Millet
+1. The Absolute Book by Elizabeth Knox
+1. Shuggie Bain by Douglas Stuart
+1. Homeland Elgies by Ayad Akhtar
+1. Factotum by Charles Bukowski
+1. Talking to the Dead by Harry Bingham
+1. Writers & Lovers by Lily King
+1. Circe by Madeline Miller
+1. You by Caroline Kepnes
+1. Educated by Tara Westover
+1. Ham on Rye by Charles Bukowski
+1. Aristotle and Dante discover the Secrets by Benjamin Alire Saenz
+1. The God of Small things by Arundhati Roy
+1. The Talented Miss Farwell by Emily Gray Tedrowe
+1. The schooldays of Jesus by J.M. Coetzee
+1. Billy Lynn's Long halftime walk  by Ben Fountain
+1. Erotic stories for Punjabi widows by Balli Kaurl Jaswal
+1. Looking for Alaska by John Green
+1. Homesick for another world by Ottessa Moshfegh
+1. The Naive and sentimental lover by John Le Carre
+1. Long bright river by Liz Moore
+1. Outline by Rachel Cusk
+1. John Dies at the End by Jason Pargin
+1. Cosmopolis by Don DeLillo
+1. 10 by Ben Lerner
+
 
 
 
