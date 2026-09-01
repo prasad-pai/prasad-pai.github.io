@@ -73,7 +73,7 @@ This is a list of books I read.
 1. On the Calculation of Volume 1 by Solvej Balle
 1. Whose Body? by Dorothy Sayers
 1. The Train by Georges Simeon
-1. The Stond Diaries by Carol Shields
+1. The Stone Diaries by Carol Shields
 1. The Door by Magda Szabo
 1. The Corrections by Jonathan Franzen
 1. Daoemon Voices by Philip Pullman
@@ -249,7 +249,7 @@ This is a list of books I read.
 1. Our woman in Moscow by Beatrix Williams
 1. Abundance by Jakob Guanzon
 1. Cloud Cuckoo Land by Anthony Doerr
-1. Intiamacies by Katie Kitamura
+1. Intimacies by Katie Kitamura
 1. Firebrak by Nicole Kornher-Stace
 1. The Archer by Shruti Swamy
 1. Apples never fall by Liane Moriarty
@@ -417,13 +417,9 @@ This is a list of books I read.
 1. The God of Small things by Arundhati Roy
 1. The Talented Miss Farwell by Emily Gray Tedrowe
 1. The schooldays of Jesus by J.M. Coetzee
-1. Billy Lynn's Long halftime walk  by Ben Fountain
 1. Erotic stories for Punjabi widows by Balli Kaurl Jaswal
-1. Looking for Alaska by John Green
-1. Homesick for another world by Ottessa Moshfegh
 1. The Naive and sentimental lover by John Le Carre
 1. Long bright river by Liz Moore
-1. Outline by Rachel Cusk
 1. John Dies at the End by Jason Pargin
 1. Cosmopolis by Don DeLillo
 1. 10 by Ben Lerner
