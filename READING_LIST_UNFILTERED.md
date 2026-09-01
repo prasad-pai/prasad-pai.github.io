@@ -32,7 +32,6 @@ This is a list of books I read.
 1. The Remains of the Day by Kazuo Ishiguro
 1. Liars by Sarah Manguso
 1. Apropos of Nothing by Woody Allen
-
 1. Jim Henson's Tale of Sand by Pérez, Ramón
 1. The Dentist by Sullivan, Tim
 1. The Method by Quirk, Matthew 
