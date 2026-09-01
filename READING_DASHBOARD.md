@@ -423,7 +423,6 @@ A categorized dashboard of books read built from the reading log.
 * **Homeland Elegies** — Ayad Akhtar
 * **It Would Be Night in Caracas** — Karina Sainz Borgo
 * **Kairos** — Jenny Erpenbeck
-* **Kazi Nazrul Islam Works** — Kazi Nazrul Islam
 * **Little Rot** — Akwaeke Emezi
 * **Love Marriage** — Monica Ali
 * **Mexican Gothic** — Silvia Moreno-Garcia
