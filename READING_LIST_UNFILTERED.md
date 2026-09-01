@@ -63,7 +63,7 @@ This is a list of books I read.
 1. Maggie; Or, A Man and A Woman Walk Into A Bar by Yee, Katie 
 1. A Guardian and A Thief by Majumdar, Megha
 
-## 2022 - 2025
+## 2025
 1. Marble Hall Murders by Anthony Horowitz
 1. Pietr the Latvian by Georges Simenon
 1. The Rose Field by Philip Pullman
@@ -105,6 +105,8 @@ This is a list of books I read.
 1. Slow Horses by Mick Herron
 1. An Academy for Liars by Alexis Henderson
 1. The Rachel Incident by Caroline O'Donoghue
+
+## 2024
 1. Bruce Lee Artist of Life by Bruce Lee
 1. Little Rot by Akwaeke Emezi
 1. The Math of Life and Death by Kit Yates
@@ -154,6 +156,8 @@ This is a list of books I read.
 1. The circumference of the world by Lavie Tidhar
 1. Ferdydurke by Witold Gombrowicz
 1. Turtles all the Way Down by John Green
+
+## 2023
 1. The Decagon House Murders by Yukito Ayatsuji
 1. The Good Soldier svejk by Jaroslav Hasek
 1. This is not Miami by Fernanda Melchor
@@ -208,6 +212,8 @@ This is a list of books I read.
 1. High Times in the low parliament by Kelly Robson
 1. The devil takes you home by Gabino Iglesias
 1. Paradais by Fernanda Melchor
+
+## 2022
 1. The trees by Percival Everett
 1. The verifiers by Jane Pek
 1. The angel of rome by Jess walter
