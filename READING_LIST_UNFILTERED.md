@@ -4,7 +4,7 @@
 
 This is a list of books I read. 
 
-## 2022-2026
+## 2026
 
 1. The World of Edena by Moebius
 1. Sakina's kiss by Vivek Shanbag
@@ -263,7 +263,9 @@ This is a list of books I read.
 1. I Who Have Never Known Men by Harpman, Jacqueline
 1. Vigil by Saunders, George
 1. Maggie; Or, A Man and A Woman Walk Into A Bar by Yee, Katie 
-1. A Guardian and A Thief by Majumdar, Megha 
+1. A Guardian and A Thief by Majumdar, Megha
+
+## 2022 - 2025
 1. Mona's Eyes by Schlesser, Thomas 
 1. Flashlight by Choi, Susan 
 1. How to End A Story by Garner, Helen
