@@ -105,6 +105,53 @@ This is a list of books I read.
 1. Slow Horses by Mick Herron
 1. An Academy for Liars by Alexis Henderson
 1. The Rachel Incident by Caroline O'Donoghue
+1. Flashlight by Choi, Susan 
+1. How to End A Story by Garner, Helen
+1. On A Sunbeam by Walden, Tillie 
+1. Eating Việt Nam by Holliday, Graham
+1. Do I Know You? by Dingfelder, Sadie 
+1. The Sense of Style by Pinker, Steven 
+1. Criminal The Deluxe Edition. Volume Three by Brubaker, Ed 
+1. Bitch Planet Book One, Extraordinary Machine by DeConnick, Kelly Sue 
+1. Vernon Subutex 1 by Despentes, Virginie 
+1. The Mind Electric A Neurologist on the Strangeness and Wonder of Our Brains by Anand, Pria 
+1. Mafalda by Quino
+1. The Loneliness of Sonia and Sunny by Desai, Kiran 
+1. Criminal The Deluxe Edition. Volume Two by Brubaker, Ed 
+1. Feeding Ghosts by Hulls, Tessa 
+1. Criminal The Deluxe Edition. Volume One by Brubaker, Ed 
+1. The Politics of the Family and Other Essays by Laing, R. D. 
+1. A Novel Murder by Nevin, E. C.
+1. Notes to John by Didion, Joan 
+1. The Demon-haunted World by Sagan, Carl 
+1. The Spire by Spurrier, Simon 
+1. Life Drawing by Hernandez, Jaime 
+1. The Man Without Talent by Tsuge, Yoshiharu 
+1. Apocalypse Never by Shellenberger, Michael
+1. Factfulness by Rosling, Hans 
+1. How to Lie With Statistics by Huff, Darrell 
+1. Being Wrong by Schulz, Kathryn
+1. To Hold up the Sky by Liu, Cixin 
+1. A View From the Stars by Liu, Cixin 
+1. The Denial of Death by Becker, Ernest 
+1. Culpability by Holsinger, Bruce W.
+1. Crucial Conversations by Grenny, Joseph 
+1. Life in Three Dimensions by Oishi, Shigehiro 
+1. Democracy for Realists by Achen, Christopher H. 
+1. Poe for your Problems by Baab-Muguira, Catherine 
+1. The Case of the Missing Men by Bertin, Kris 
+1. The Art of Logic in An Illogical World by Cheng, Eugenia 
+1. Supernova Era by Liu, Cixin 
+1. How to Solve your Own Murder by Perrin, Kristen 
+1. Vice and Virtue by Klein, Libby 
+1. Socratic Logic by Kreeft, Peter 
+1. James by Everett, Percival 
+1. The God of the Woods by Moore, Liz
+1. Meditations for Mortals by Burkeman, Oliver
+1. Blessed Be by Altergott, Rick
+1. Flourishing Kin by Celidwen, Yuria 
+1. Starport by Martin, George R. R.
+1. Good Material by Alderton, Dolly
 
 ## 2024
 1. Bruce Lee Artist of Life by Bruce Lee
@@ -270,53 +317,6 @@ This is a list of books I read.
 1. The Prime of Miss Jean Brodie by Muriel Spark
 1. The Actual Star by Monica Byrne
 1. Mona's Eyes by Schlesser, Thomas 
-1. Flashlight by Choi, Susan 
-1. How to End A Story by Garner, Helen
-1. On A Sunbeam by Walden, Tillie 
-1. Eating Việt Nam by Holliday, Graham
-1. Do I Know You? by Dingfelder, Sadie 
-1. The Sense of Style by Pinker, Steven 
-1. Criminal The Deluxe Edition. Volume Three by Brubaker, Ed 
-1. Bitch Planet Book One, Extraordinary Machine by DeConnick, Kelly Sue 
-1. Vernon Subutex 1 by Despentes, Virginie 
-1. The Mind Electric A Neurologist on the Strangeness and Wonder of Our Brains by Anand, Pria 
-1. Mafalda by Quino
-1. The Loneliness of Sonia and Sunny by Desai, Kiran 
-1. Criminal The Deluxe Edition. Volume Two by Brubaker, Ed 
-1. Feeding Ghosts by Hulls, Tessa 
-1. Criminal The Deluxe Edition. Volume One by Brubaker, Ed 
-1. The Politics of the Family and Other Essays by Laing, R. D. 
-1. A Novel Murder by Nevin, E. C.
-1. Notes to John by Didion, Joan 
-1. The Demon-haunted World by Sagan, Carl 
-1. The Spire by Spurrier, Simon 
-1. Life Drawing by Hernandez, Jaime 
-1. The Man Without Talent by Tsuge, Yoshiharu 
-1. Apocalypse Never by Shellenberger, Michael
-1. Factfulness by Rosling, Hans 
-1. How to Lie With Statistics by Huff, Darrell 
-1. Being Wrong by Schulz, Kathryn
-1. To Hold up the Sky by Liu, Cixin 
-1. A View From the Stars by Liu, Cixin 
-1. The Denial of Death by Becker, Ernest 
-1. Culpability by Holsinger, Bruce W.
-1. Crucial Conversations by Grenny, Joseph 
-1. Life in Three Dimensions by Oishi, Shigehiro 
-1. Democracy for Realists by Achen, Christopher H. 
-1. Poe for your Problems by Baab-Muguira, Catherine 
-1. The Case of the Missing Men by Bertin, Kris 
-1. The Art of Logic in An Illogical World by Cheng, Eugenia 
-1. Supernova Era by Liu, Cixin 
-1. How to Solve your Own Murder by Perrin, Kristen 
-1. Vice and Virtue by Klein, Libby 
-1. Socratic Logic by Kreeft, Peter 
-1. James by Everett, Percival 
-1. The God of the Woods by Moore, Liz
-1. Meditations for Mortals by Burkeman, Oliver
-1. Blessed Be by Altergott, Rick
-1. Flourishing Kin by Celidwen, Yuria 
-1. Starport by Martin, George R. R.
-1. Good Material by Alderton, Dolly
 1. The Empusium by Tokarczuk, Olga 
 1. Saladology by Kirwan, Theo
 1. The Silence of the Choir by Sarr, Mohamed Mbougar 
