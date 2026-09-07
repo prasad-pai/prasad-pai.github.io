@@ -2,7 +2,7 @@
 
 ---
 
-This is a list of books I read. 
+This is a list of books I read. Books that I did not finish have been struck through.
 
 ## 2026
 
@@ -21,7 +21,7 @@ This is a list of books I read.
 1. The other name by Jon Fosse
 1. The World's greatest detective by Caroline Carlson
 1. Liquid by Mariam Rahmani
-1. Earth to Moon by Moon Unit Zappa
+1. ~~Earth to Moon by Moon Unit Zappa~~
 1. The Everlasting by Alix E Harrow
 1. Cold Comfort Farm by Stella Gibbons
 1. The Land in Winter by Andrew Miller
@@ -31,7 +31,7 @@ This is a list of books I read.
 1. Victorian Pscyho by Virginia Feito
 1. The Remains of the Day by Kazuo Ishiguro
 1. Liars by Sarah Manguso
-1. Apropos of Nothing by Woody Allen
+1. ~~Apropos of Nothing by Woody Allen~~
 1. Jim Henson's Tale of Sand by Pérez, Ramón
 1. The Dentist by Sullivan, Tim
 1. The Method by Quirk, Matthew 
@@ -39,13 +39,9 @@ This is a list of books I read.
 1. Unhinged USA Political Cartoons & Commentary by Horsey, Dave
 1. Entitlement by Alam, Rumaan
 1. Everybody Wants to Rule the World by Atkins, Ace 
-1. The Book of Alchemy A Creative Practice for An Inspired Life by Jaouad, Suleika
 1. You Can Draw It in Just 30 Minutes See It and Sketch It in A Half-hour or Less by Kistler, Mark 
-1. When the Moon Hits your Eye by Scalzi, John
 1. A Billion Wicked Thoughts by Ogas, Ogi
-1. Shadow Ticket by Pynchon, Thomas 
-1. An Instance of the Fingerpost by Pears, Iain 
-1. Tongues Book 1 by Nilsen, Anders
+1. ~~Tongues Book 1 by Nilsen, Anders~~
 1. A Man by Hirano, Keiichirō
 1. The Book of Records by Thien, Madeleine
 1. Phantom Orbit by Ignatius, David 
@@ -53,13 +49,13 @@ This is a list of books I read.
 1. Nobody's Baby by Waite, Olivia 
 1. Every Day I Read by Hwang, Po-rŭm 
 1. Spent by Bechdel, Alison 
-1. Book of Lives by Atwood, Margaret
+1. ~~Book of Lives by Atwood, Margaret~~
 1. Buckeye by Ryan, Patrick 
-1. When Everyone Knows That Everyone Knows by Pinker, Steven 
+1. ~~When Everyone Knows That Everyone Knows by Pinker, Steven~~
 1. What We Can Know by McEwan, Ian
-1. Replaceable You by Roach, Mary
-1. I Who Have Never Known Men by Harpman, Jacqueline
-1. Vigil by Saunders, George
+1. ~~Replaceable You by Roach, Mary~~
+1. ~~I Who Have Never Known Men by Harpman, Jacqueline~~
+1. ~~Vigil by Saunders, George~~
 1. Maggie; Or, A Man and A Woman Walk Into A Bar by Yee, Katie 
 1. A Guardian and A Thief by Majumdar, Megha
 
@@ -86,17 +82,17 @@ This is a list of books I read.
 1. Hard Rain Falling by Don Carpenter
 1. The Hollywood Trilogy by Don Carpenter
 1. All my Friends are going to be strangers by Larry McMurtry
-1. Who Is Government by Michael Lewis
+1. ~~Who Is Government by Michael Lewis~~
 1. The Unexpurgated Code by J.P. Donleavy
 1. Going infinite by Michael Lewis
-1. The Journey to the West, Volume 1 by Anthony Yu
+1. ~~The Journey to the West, Volume 1 by Anthony Yu~~
 1. A philosophical investigation by Philip Kerr
 1. Deep End by Ali Hazelwood
 1. Slouching towards Bethlehem by Joan Didion
 1. The Prestige by Christopher Priest
 1. It Can't Happen here by Sinclair Lewis
 1. The Details by Ia Genberg
-1. The Emperor of All Maladies by Siddhartha Mukherjee
+1. ~~The Emperor of All Maladies by Siddhartha Mukherjee~~
 1. Kairos by Jenny Erpenbeck
 1. Anansi's Gold by Yepoka Yeebo
 1. The Bright Sword by Lev Grossman
@@ -110,7 +106,7 @@ This is a list of books I read.
 1. On A Sunbeam by Walden, Tillie 
 1. Eating Việt Nam by Holliday, Graham
 1. Do I Know You? by Dingfelder, Sadie 
-1. The Sense of Style by Pinker, Steven 
+1. ~~The Sense of Style by Pinker, Steven~~
 1. Criminal The Deluxe Edition. Volume Three by Brubaker, Ed 
 1. Bitch Planet Book One, Extraordinary Machine by DeConnick, Kelly Sue 
 1. Vernon Subutex 1 by Despentes, Virginie 
@@ -138,13 +134,13 @@ This is a list of books I read.
 1. Crucial Conversations by Grenny, Joseph 
 1. Life in Three Dimensions by Oishi, Shigehiro 
 1. Democracy for Realists by Achen, Christopher H. 
-1. Poe for your Problems by Baab-Muguira, Catherine 
+1. ~~Poe for your Problems by Baab-Muguira, Catherine~~
 1. The Case of the Missing Men by Bertin, Kris 
 1. The Art of Logic in An Illogical World by Cheng, Eugenia 
 1. Supernova Era by Liu, Cixin 
 1. How to Solve your Own Murder by Perrin, Kristen 
 1. Vice and Virtue by Klein, Libby 
-1. Socratic Logic by Kreeft, Peter 
+1. ~~Socratic Logic by Kreeft, Peter~~ 
 1. James by Everett, Percival 
 1. The God of the Woods by Moore, Liz
 1. Meditations for Mortals by Burkeman, Oliver
@@ -154,11 +150,11 @@ This is a list of books I read.
 1. Good Material by Alderton, Dolly
 
 ## 2024
-1. Bruce Lee Artist of Life by Bruce Lee
+1. ~~Bruce Lee Artist of Life by Bruce Lee~~
 1. Little Rot by Akwaeke Emezi
 1. The Math of Life and Death by Kit Yates
 1. Thinking in Bets by Annie Duke
-1. Permutation City by Greg Egan
+1. ~~Permutation City by Greg Egan~~
 1. Can you solve my problems by Alex Bellos
 1. Demon Copperhead by Barbara Kingsolver
 1. The Fury by Alex Michaelides
