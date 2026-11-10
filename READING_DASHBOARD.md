@@ -1,457 +1,242 @@
 ---
-layout: default
-title: Reading Dashboard
+layout: null
+title: My Reading Journey
 permalink: /dashboard/
 ---
 
-# 📚 Personal Reading Dashboard (2020 – 2026)
-
-A categorized dashboard of books read built from the reading log.
-
----
-
-## 📊 Summary & Reading Metrics
-
-| Year | Books Logged | Dominant Themes & Focus Areas |
-| :--- | :---: | :--- |
-| **2026** | 56 | Philosophical Fiction, Health & Longevity, Graphic Novels, Classics |
-| **2025** | 88 | Mystery & Crime, Behavioral Science, Physics, Literary Fiction |
-| **2024** | 49 | Speculative Sci-Fi, Logic & Mathematics, Contemporary Fiction |
-| **2023** | 54 | Haruki Murakami, Global Literature, Economics, History |
-| **2022** | 73 | Historical Fiction, Award Winners, Crime & Thrillers, Arts |
-| **2021** | 92 | Sci-Fi & Fantasy, Literary Modernism, Philosophy, Crime |
-| **2020** | 88 | Historical Epics, Graphic Novels, Non-Fiction & Journalism, Mystery |
-| **Total** | **500** | *Curated across 9 main thematic categories* |
-
----
-
-## 🏷️ Books Categorized by Genre & Subject
-
-### 1. 🕵️‍♂️ Mystery, Crime & Thrillers
-* **A Coffin for Dimitrios** — Eric Ambler
-* **A Novel Murder** — E. C. Nevin
-* **A Philosophical Investigation** — Philip Kerr
-* **A Shadow Intelligence** — Oliver Harris
-* **A Talent for Murder** — Peter Swanson
-* **An Instance of the Fingerpost** — Iain Pears
-* **Anatomy of a Murder** — Robert Traver
-* **Apples Never Fall** — Liane Moriarty
-* **Billy Summers** — Stephen King
-* **Black Souls** — Gioacchino Criaco
-* **Blind Goddess** — Anne Holt
-* **Blue Moon** — Lee Child
-* **Creation Lake** — Rachel Kushner
-* **Criminal: The Deluxe Edition (Vols 1, 2, 3)** — Ed Brubaker
-* **Death at the Sign of the Rook** — Kate Atkinson
-* **Death of a Red Heroine** — Qiu Xialong
-* **Djinn Patrol on the Purple Line** — Deepa Anappara
-* **Fifty Grand** — Adrian McKinty
-* **Here One Moment** — Liane Moriarty
-* **How to Solve Your Own Murder** — Kristen Perrin
-* **John Dies at the End** — Jason Pargin
-* **Killing Moon** — Jo Nesbo
-* **Lady in the Lake** — Laura Lippman
-* **Long Bright River** — Liz Moore
-* **Marble Hall Murders** — Anthony Horowitz
-* **Motherless Brooklyn** — Jonathan Lethem
-* **My Lovely Wife** — Samantha Downing
-* **My Sister, the Serial Killer** — Oyinkan Braithwaite
-* **Our Woman in Moscow** — Beatrix Williams
-* **Pietr the Latvian** — Georges Simenon
-* **Salvation of a Saint** — Keigo Higashino
-* **Slow Horses** — Mick Herron
-* **Still Life** — Louise Penny
-* **Talking to the Dead** — Harry Bingham
-* **The Alice Network** — Kate Quinn
-* **The Beekeeper's Apprentice** — Laurie R. King
-* **The Case of the Missing Men** — Kris Bertin
-* **The Coroner's Lunch** — Colin Cotterill
-* **The Death of Mrs. Westaway** — Ruth Ware
-* **The Decagon House Murders** — Yukito Ayatsuji
-* **The Dentist** — Tim Sullivan
-* **The Expats** — Chris Pavone
-* **The Fury** — Alex Michaelides
-* **The God of the Woods** — Liz Moore
-* **The Man with a Load of Mischief** — Martha Grimes
-* **The Method** — Matthew Quirk
-* **The Mission Song** — John Le Carré
-* **The Naive and Sentimental Lover** — John Le Carré
-* **The Paris Apartment** — Lucy Foley
-* **The Pigeon Tunnel** — John Le Carré
-* **The Running Grave** — Robert Galbraith
-* **The Sentence is Death** — Anthony Horowitz
-* **The 7 1/2 Deaths of Evelyn Hardcastle** — Stuart Turton
-* **The Talented Miss Farwell** — Emily Gray Tedrowe
-* **The Train** — Georges Simenon
-* **The Widows of Malabar Hill** — Sujata Massey
-* **The Witch Elm** — Tana French
-* **The Word is Murder** — Anthony Horowitz
-* **Thus Was Adonis Murdered** — Sarah Caudwell
-* **Vice and Virtue** — Libby Klein
-* **Victorian Psycho** — Virginia Feito
-* **Whose Body?** — Dorothy Sayers
-* **Wolf Hour** — Jo Nesbo
-* **You** — Caroline Kepnes
-
----
-
-### 2. 🚀 Science Fiction, Fantasy & Speculative Fiction
-* **1Q84** — Haruki Murakami
-* **A Desolation Called Peace** — Arkady Martine
-* **A Deadly Education** — Naomi Novik
-* **A Fire Upon the Deep** — Vernor Vinge
-* **A View from the Stars** — Cixin Liu
-* **All Systems Red** — Martha Wells
-* **All the Birds in the Sky** — Charlie Jane Anders
-* **Barn 8** — Deb Olin Unferths
-* **Consider Phlebas** — Iain M. Banks
-* **Dune** — Frank Herbert
-* **Exhalation** — Ted Chiang
-* **Firebreak** — Nicole Kornher-Stace
-* **Good Omens** — Neil Gaiman & Terry Pratchett
-* **Hench** — Natalie Zina Walschots
-* **High Times in the Low Parliament** — Kelly Robson
-* **Hyperion** — Dan Simmons
-* **I Who Have Never Known Men** — Jacqueline Harpman
-* **Kafka on the Shore** — Haruki Murakami
-* **Klara and the Sun** — Kazuo Ishiguro
-* **Neuromancer** — William Gibson
-* **Night Watch** — Terry Pratchett
-* **On the Calculation of Volume 1** — Solvej Balle
-* **Parable of the Sower** — Octavia E. Butler
-* **Permutation City** — Greg Egan
-* **Polostan** — Neal Stephenson
-* **Recursion** — Blake Crouch
-* **Red Rising** — Pierce Brown
-* **Serpentine** — Philip Pullman
-* **She Who Became the Sun** — Shelley Parker-Chan
-* **Skulduggery Pleasant** — Derek Landy
-* **Some Desperate Glory** — Emily Tesh
-* **Space Opera** — Catherynne M. Valente
-* **Starport** — George R. R. Martin
-* **Supernova Era** — Cixin Liu
-* **The Absolute Book** — Elizabeth Knox
-* **The Broken Earth Trilogy (The Fifth Season, The Obelisk Gate, The Stone Sky)** — N. K. Jemisin
-* **The Burning God** — R. F. Kuang
-* **The Callahan Chronicles** — Spider Robinson
-* **The Dragon Republic** — R. F. Kuang
-* **The Echo Wife** — Sarah Gailey
-* **The Eye of the World** — Robert Jordan
-* **The Future of Another Timeline** — Annalee Newitz
-* **The Girl Who Could Move Sh\*t with Her Mind** — Jackson Ford
-* **The Gone World** — Tom Sweterlitsch
-* **The Long Earth** — Terry Pratchett
-* **The Man Who Folded Himself** — David Gerrold
-* **The Midnight Library** — Matt Haig
-* **The Ministry of Time** — Kaliane Bradley
-* **The Paradox Hotel** — Rob Hart
-* **The Poppy War** — R. F. Kuang
-* **The Prestige** — Christopher Priest
-* **The Rose Field** — Philip Pullman
-* **The Sleepwalkers** — Scarlett Thomas
-* **The Book of the New Sun (Shadow and Claw, Sword and Citadel)** — Gene Wolfe
-* **The Warehouse** — Rob Hart
-* **To Hold Up the Sky** — Cixin Liu
-* **Transition** — Iain M. Banks
-* **Trouble the Saints** — Alaya Dawn Johnson
-* **Upgrade** — Blake Crouch
-* **Wanderers** — Chuck Wendig
-* **We** — Yevgeny Zamyatin
-* **When the Moon Hits Your Eye** — John Scalzi
-* **Wild Seed** — Octavia E. Butler
-* **World War Z** — Max Brooks
-
----
-
-### 3. 🧬 Science, Mathematics, Technology & Rationality
-* **A Billion Wicked Thoughts** — Ogi Ogas
-* **A Brief History of Everyone Who Ever Lived** — Adam Rutherford
-* **Anansi's Gold** — Yepoka Yeebo
-* **Apocalypse Never** — Michael Shellenberger
-* **Art of Deception** — Nicholas Capaldi
-* **Body by Science** — John R. Little
-* **Can You Solve My Problems?** — Alex Bellos
-* **Dataclysm** — Christian Rudder
-* **Factfulness** — Hans Rosling
-* **Gene Machine** — Venki Ramakrishnan
-* **Good to Go** — Christie Aschwanden
-* **How to Lie with Statistics** — Darrell Huff
-* **Super Agers** — Eric Topol
-* **The Art of Logic in an Illogical World** — Eugenia Cheng
-* **The Demon-Haunted World** — Carl Sagan
-* **The Emperor of All Maladies** — Siddhartha Mukherjee
-* **The Gene** — Siddhartha Mukherjee
-* **The Math of Life and Death** — Kit Yates
-* **The Mind Electric** — Pria Anand
-* **The Order of Time** — Carlo Rovelli
-* **Thinking in Bets** — Annie Duke
-
----
-
-### 4. 🧠 Philosophy, Psychology & Personal Growth
-* **A Carnival of Losses** — Donald Hall
-* **Being Wrong** — Kathryn Schulz
-* **Crucial Conversations** — Joseph Grenny
-* **Do I Know You?** — Sadie Dingfelder
-* **Drawing on the Right Side of the Brain** — Betty Edwards
-* **How to Think Like Sherlock** — Daniel Smith
-* **Life in Three Dimensions** — Shigehiro Oishi
-* **Meditations for Mortals** — Oliver Burkeman
-* **Plato and a Platypus Walk Into a Bar** — Thomas Cathcart
-* **Poe for Your Problems** — Catherine Baab-Muguira
-* **Quiet: The Power of Introverts** — Susan Cain
-* **Socratic Logic** — Peter Kreeft
-* **Still the Mind** — Alan Watts
-* **The Book of Alchemy** — Suleika Jaouad
-* **The Denial of Death** — Ernest Becker
-* **The Examined Life** — Stephen Grosz
-* **The Pig That Wants to Be Eaten** — Julian Baggini
-* **The Politics of the Family and Other Essays** — R. D. Laing
-* **The Socrates Express** — Eric Weiner
-* **When Everyone Knows That Everyone Knows** — Steven Pinker
-* **Yoga for the Inflexible Male** — Yoga Matt
-
----
-
-### 5. 🎨 Graphic Novels, Cartoons & Visual Arts
-* **Alienation** — Inés Estrada
-* **Almost American Girl** — Robin Ha
-* **Apsara Engine** — Baisakh Som
-* **Banned Book Club** — Hyun Sook Kim
-* **Bitch Planet (Book One: Extraordinary Machine)** — Kelly Sue DeConnick
-* **BTTM FDRS** — Ezra Claytan Daniels
-* **Brownstone** — Samuel Teer
-* **Death Wins a Goldfish** — Brian Rea
-* **Feeding Ghosts** — Tessa Hulls
-* **Harley Quinn: Breaking Glass** — Mariko Tamaki & Steve Pugh
-* **Jim Henson's Tale of Sand** — Ramón Pérez
-* **Life Drawing** — Jaime Hernandez
-* **Mafalda** — Quino
-* **On a Sunbeam** — Tillie Walden
-* **Past Tense** — Mardou
-* **Saladology** — Theo Kirwan
-* **Spent** — Alison Bechdel
-* **Stanislaw Lem's The Seventh Voyage** — Jon J Muth
-* **Swimming in Darkness** — Lucas Harari
-* **The American Dream?** — Shing Yin Khor
-* **The Daughters of Ys** — M. T. Anderson
-* **The Hard Tomorrow** — Eleanor Davis
-* **The Man Without Talent** — Yoshiharu Tsuge
-* **The Sad Ghost Club** — Lize Meddings
-* **The Spire** — Simon Spurrier
-* **The World of Edena** — Moebius
-* **Tongues (Book 1)** — Anders Nilsen
-* **Unhinged: USA Political Cartoons & Commentary** — Dave Horsey
-* **Year of the Rabbit** — Tian
-* **You Can Draw It in Just 30 Minutes** — Mark Kistler
-
----
-
-### 6. 🏛️ Literary Fiction & Classics
-* **A Children's Bible** — Lydia Millet
-* **A Confederacy of Dunces** — John Kennedy Toole
-* **A Little Life** — Hanya Yanagihara
-* **A Visit from the Goon Squad** — Jennifer Egan
-* **All Fours** — Miranda July
-* **All Quiet on the Western Front** — Erich Maria Remarque
-* **All That Man Is** — David Szalay
-* **Barney's Version** — Mordecai Richler
-* **Blood Meridian** — Cormac McCarthy
-* **Breasts and Eggs** — Mieko Kawakami
-* **Catherine House** — Elisabeth Thomas
-* **Cloud Cuckoo Land** — Anthony Doerr
-* **Cold Comfort Farm** — Stella Gibbons
-* **Crossroads** — Jonathan Franzen
-* **Demon Copperhead** — Barbara Kingsolver
-* **Fates and Furies** — Lauren Groff
-* **Ferdydurke** — Witold Gombrowicz
-* **Flesh** — David Szalay
-* **Freedom** — Jonathan Franzen
-* **French Exit** — Patrick deWitt
-* **Giovanni's Room** — James Baldwin
-* **Good Behavior** — Molly Keane
-* **Great Expectations** — Vinson Cunningham
-* **Hard Rain Falling** — Don Carpenter
-* **Human Acts** — Han Kang
-* **How Should a Person Be?** — Sheila Heti
-* **I Is Another** — Jon Fosse
-* **Intimacies** — Katie Kitamura
-* **It Can't Happen Here** — Sinclair Lewis
-* **James** — Percival Everett
-* **Johnny Got His Gun** — Dalton Trumbo
-* **Julia** — Sandra Newman
-* **King Sorrow** — Joe Hill
-* **Liars** — Sarah Manguso
-* **Lord Jim at Home** — Dinah Brooke
-* **Middlemarch** — George Eliot
-* **Mrs. Dalloway** — Virginia Woolf
-* **My Ántonia** — Willa Cather
-* **Normal People** — Sally Rooney
-* **Outline** — Rachel Cusk
-* **Problems** — Jade Sharma
-* **Red Rising** — Pierce Brown
-* **Shuggie Bain** — Douglas Stuart
-* **Some Can Whistle** — Larry McMurtry
-* **The Book of Ayn** — Lexi Freiman
-* **The Book of Illusions** — Paul Auster
-* **The Brothers Karamazov** — Fyodor Dostoevsky
-* **The Children's Book** — A. S. Byatt
-* **The Corrections** — Jonathan Franzen
-* **The Door** — Magda Szabo
-* **The Elegance of the Hedgehog** — Muriel Barbery
-* **The Empusium** — Olga Tokarczuk
-* **The Glass Bead Game** — Hermann Hesse
-* **The Other Name** — Jon Fosse
-* **The Prime of Miss Jean Brodie** — Muriel Spark
-* **The Remains of the Day** — Kazuo Ishiguro
-* **The Reluctant Fundamentalist** — Mohsin Hamid
-* **The Savage Detectives** — Roberto Bolaño
-* **The Schoolboys of Jesus** — J. M. Coetzee
-* **The Third Policeman** — Flann O'Brien
-* **The Trees** — Percival Everett
-* **The Unbearable Lightness of Being** — Milan Kundera
-* **The World's Greatest Detective** — Caroline Carlson
-* **Turtles All the Way Down** — John Green
-* **Us Fools** — Nora Lange
-* **Vernon Subutex 1** — Virginie Despentes
-* **Wild Houses** — Colin Barrett
-
----
-
-### 7. 📜 Historical Fiction & Epics
-* **4 3 2 1** — Paul Auster
-* **A Guardian and a Thief** — Megha Majumdar
-* **A Town Like Alice** — Nevil Shute
-* **Days Without End** — Sebastian Barry
-* **Gilead** — Marilynne Robinson
-* **Hondo** — Louis L'Amour
-* **Lonesome Dove** — Larry McMurtry
-* **Matrix** — Lauren Groff
-* **Musashi** — Eiji Yoshikawa
-* **Shogun** — James Clavell
-* **Small Things Like These** — Claire Keegan
-* **The Blind Assassin** — Margaret Atwood
-* **The Books of Jacob** — Olga Tokarczuk
-* **The Border Trilogy (The Power of the Dog, The Cartel, The Border)** — Don Winslow
-* **The Bright Sword** — Lev Grossman
-* **The Covenant of Water** — Abraham Verghese
-* **The Handmaid's Tale** — Margaret Atwood
-* **The Hollywood Trilogy** — Don Carpenter
-* **The Inheritance of Loss** — Kiran Desai
-* **The Lincoln Highway** — Amor Towles
-* **The Marriage Portrait** — Maggie O'Farrell
-* **The Nickel Boys** — Colson Whitehead
-* **The Secret River** — Kate Grenville
-* **The Secrets We Kept** — Lara Prescott
-* **The Stone Diaries** — Carol Shields
-* **The Testaments** — Margaret Atwood
-* **The Thousand Autumns of Jacob de Zoet** — David Mitchell
-* **The Women** — Kristin Hannah
-* **Wolf Hall** — Hilary Mantel
-
----
-
-### 8. 🗣️ Memoir, Biography, Essays & Non-Fiction
-* **Apropos of Nothing** — Woody Allen
-* **All the Way to the Tigers** — Mary Morris
-* **Behind the Beautiful Forevers** — Katherine Boo
-* **Bruce Lee: Artist of Life** — Bruce Lee
-* **Catch and Kill** — Ronan Farrow
-* **China, India and the United States** — Peter Rodriguez
-* **Democracy for Realists** — Christopher H. Achen
-* **Doppelganger** — Naomi Klein
-* **Eat the Buddha** — Barbara Demick
-* **Eating Việt Nam** — Graham Holliday
-* **Educated** — Tara Westover
-* **Factotum** — Charles Bukowski
-* **From the Ruins of Empire** — Pankaj Mishra
-* **God Economics for Hard Times** — Abhijit Banerjee
-* **Going Infinite** — Michael Lewis
-* **Ham on Rye** — Charles Bukowski
-* **Here We Are** — Aarti Namdev Shahani
-* **How Not to Die** — Jan Garavaglia
-* **In Cold Blood** — Truman Capote
-* **Joseph Anton** — Salman Rushdie
-* **Just as I Am** — Cicely Tyson
-* **Life and Death in the Andes** — Kim MacQuarrie
-* **Moneyland** — Oliver Bullough
-* **Mother Mary Comes to Me** — Arundhati Roy
-* **My Broken Language** — Quiara Alegría Hudes
-* **My Own Devices** — Dessa
-* **Notes to John** — Joan Didion
-* **Permanent Record** — Edward Snowden
-* **Priestdaddy** — Patricia Lockwood
-* **Slouching Towards Bethlehem** — Joan Didion
-* **Talking to Strangers** — Malcolm Gladwell
-* **The Anarchy** — William Dalrymple
-* **The Argonauts** — Maggie Nelson
-* **The Fry Chronicles** — Stephen Fry
-* **The Good Girls** — Sonia Faleiro
-* **The Mastermind** — Evan Ratliff
-* **The Shanghai Free Taxi** — Frank Langfitt
-* **The Undying** — Anne Boyer
-* **The Unexpurgated Code** — J. P. Donleavy
-* **They Called Us Enemy** — George Takei
-* **Three Women** — Lisa Taddeo
-* **Trick Mirror** — Jia Tolentino
-* **True Brews** — Emma Christensen
-* **We Don't Know Ourselves** — Fintan O'Toole
-* **Who Is Government** — Michael Lewis
-* **Wild Game** — Adrienne Brodeur
-* **Yearbook** — Seth Rogen
-
----
-
-### 9. 🌏 Global, Translated & Cultural Literature
-* **10 Minutes 38 Seconds in This Strange World** — Elif Shafak
-* **2 A.M. in Little America** — Ken Kalfus
-* **A Burning** — Megha Majumdar
-* **A Ghost in the Throat** — Doireann Ní Ghríofa
-* **A Man** — Keiichirō Hirano
-* **Age of Vice** — Deepti Kapoor
-* **An Island** — Karen Jennings
-* **Amnesty** — Aravind Adiga
-* **Before the Coffee Gets Cold** — Toshikazu Kawaguchi
-* **Black Sunday** — Tola Rotimi Abraham
-* **Bluebeard's First Wife** — Song-nan Ha
-* **Circumference of the World** — Lavie Tidhar
-* **Disorientation** — Elaine Hsieh Chou
-* **Erotic Stories for Punjabi Widows** — Balli Kaur Jaswal
-* **Every Day I Read** — Po-rŭm Hwang
-* **Flashlight** — Susan Choi
-* **Heart Lamp** — Banu Mushtaq
-* **Homeland Elegies** — Ayad Akhtar
-* **It Would Be Night in Caracas** — Karina Sainz Borgo
-* **Kairos** — Jenny Erpenbeck
-* **Little Rot** — Akwaeke Emezi
-* **Love Marriage** — Monica Ali
-* **Mexican Gothic** — Silvia Moreno-Garcia
-* **Mona's Eyes** — Thomas Schlesser
-* **My Brilliant Life** — Ae-ran Kim
-* **Night Boat to Tangier** — Kevin Barry
-* **Pachinko** — Min Jin Lee
-* **Paradais** — Fernanda Melchor
-* **Sakina's Kiss** — Vivek Shanbhag
-* **Scattered All Over the Earth** — Yoko Tawada
-* **Silent Winds, Dry Seas** — Vinod Busjeet
-* **Stolen** — Ann-Helén Laestadius
-* **The Archer** — Shruti Swamy
-* **The Details** — Ia Genberg
-* **The Elephant Vanishes** — Haruki Murakami
-* **The Forty Rules of Love** — Elif Shafak
-* **The God of Small Things** — Arundhati Roy
-* **The Good Soldier Švejk** — Jaroslav Hašek
-* **The Journey to the West (Vol 1)** — Anthony Yu
-* **The Loneliness of Sonia and Sunny** — Kiran Desai
-* **The Old Drift** — Namwali Serpell
-* **The Orchard** — Kristina Gorcheva-Newberry
-* **The Rachel Incident** — Caroline O'Donoghue
-* **The Seven Moons of Maali Almeida** — Shehan Karunatilaka
-* **The Silence of the Choir** — Mohamed Mbougar Sarr
-* **The Stranger** — Albert Camus
-* **The Startup Wife** — Tahmima Anam
-* **The White Book** — Han Kang
-* **The Wind-Up Bird Chronicle** — Haruki Murakami
-* **This Is Not Miami** — Fernanda Melchor
-* **Wahala** — Nikki May
-* **Where the Wild Ladies Are** — Aoko Matsuda
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="A personal reading library: books organized by genre, with covers and places to find each title.">
+<title>My Reading Journey · Personal Library</title>
+<style>
+:root{--ink:#29271f;--muted:#716d62;--paper:#f6f2e9;--card:#fffdf8;--line:#e7dfd1;--accent:#8a5738;--accent2:#c18a55;--shadow:0 12px 32px rgba(53,39,22,.09)}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.5}
+a{color:inherit}
+.hero{min-height:410px;padding:42px 24px 54px;display:flex;align-items:flex-end;background:linear-gradient(90deg,rgba(25,22,18,.82),rgba(25,22,18,.48)),url("https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=2200&q=85") center 48%/cover;color:#fff}
+.hero-inner{width:min(1180px,100%);margin:0 auto}
+.eyebrow{text-transform:uppercase;letter-spacing:.19em;font-size:11px;font-weight:700;color:#e7c7a3}
+h1{font-family:Georgia,"Times New Roman",serif;font-size:clamp(42px,7vw,76px);line-height:1.02;font-weight:500;letter-spacing:-.035em;margin:14px 0}
+.hero p{max-width:640px;color:#eee6da;font-size:17px;margin:0}
+.hero-rule{width:68px;height:3px;background:#d3a16e;margin:22px 0}
+.wrap{width:min(1180px,calc(100% - 40px));margin:0 auto}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:-27px auto 34px;position:relative}
+.stat{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px 22px;box-shadow:var(--shadow)}
+.stat strong{display:block;font-family:Georgia,serif;font-size:31px;font-weight:500;color:var(--accent)}
+.stat span{font-size:12px;letter-spacing:.09em;text-transform:uppercase;color:var(--muted)}
+.note{font-size:13px;color:var(--muted);margin:0 0 28px}
+.toolbar{display:flex;gap:12px;align-items:center;flex-wrap:wrap;padding:17px 0 20px;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.search{flex:1 1 280px;position:relative}
+.search input{width:100%;padding:13px 16px 13px 42px;border:1px solid #d9cfbf;border-radius:10px;background:#fffdf8;color:var(--ink);font:inherit;outline:none}
+.search input:focus{border-color:var(--accent);box-shadow:0 0 0 3px rgba(138,87,56,.12)}
+.search:before{content:"⌕";position:absolute;left:15px;top:6px;font-size:25px;color:var(--muted)}
+select{padding:13px 34px 13px 13px;border:1px solid #d9cfbf;border-radius:10px;background:#fffdf8;color:var(--ink);font:inherit}
+.category-nav{display:flex;gap:8px;overflow-x:auto;padding:18px 0 7px;scrollbar-width:thin}
+.chip{border:1px solid #d9cfbf;background:transparent;color:#625b50;padding:8px 13px;border-radius:99px;white-space:nowrap;font-size:13px;cursor:pointer}
+.chip:hover,.chip.active{background:#6f4932;color:#fff;border-color:#6f4932}
+.results-line{display:flex;justify-content:space-between;gap:12px;align-items:center;margin:25px 0 12px;color:var(--muted);font-size:13px}
+.category-section{padding:20px 0 28px;scroll-margin-top:20px}
+.category-heading{display:flex;align-items:baseline;justify-content:space-between;gap:16px;border-bottom:1px solid var(--line);padding-bottom:12px;margin-bottom:18px}
+.category-heading h2{font-family:Georgia,serif;font-size:clamp(22px,3vw,29px);font-weight:500;margin:0}
+.category-heading span{color:var(--muted);font-size:12px;white-space:nowrap}
+.book-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:16px}
+.book-card{min-width:0;background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;box-shadow:0 3px 12px rgba(53,39,22,.035);transition:transform .18s ease,box-shadow .18s ease;display:flex;flex-direction:column}
+.book-card:hover{transform:translateY(-3px);box-shadow:var(--shadow)}
+.cover{height:210px;background:#e9dfd0;position:relative;overflow:hidden;display:flex;align-items:center;justify-content:center;padding:17px}
+.cover:after{content:"";position:absolute;inset:8px;border:1px solid rgba(255,255,255,.35);pointer-events:none}
+.cover img{display:none;position:absolute;width:100%;height:100%;inset:0;object-fit:contain;background:#eee8dc;padding:8px}
+.cover-fallback{width:100%;height:100%;display:flex;align-items:center;justify-content:center;text-align:center;padding:14px;color:#fff;font-family:Georgia,serif;font-size:17px;line-height:1.2;text-shadow:0 1px 3px rgba(0,0,0,.2);background:linear-gradient(145deg,#4c6257,#253b34)}
+.book-card:nth-child(4n+2) .cover-fallback{background:linear-gradient(145deg,#986d4d,#533d32)}
+.book-card:nth-child(4n+3) .cover-fallback{background:linear-gradient(145deg,#59647b,#2d3549)}
+.book-card:nth-child(4n+4) .cover-fallback{background:linear-gradient(145deg,#a47c75,#604b4a)}
+.book-info{padding:13px 13px 14px;display:flex;flex-direction:column;flex:1}
+.book-title{font-family:Georgia,serif;font-size:16px;line-height:1.25;margin:0 0 5px;font-weight:600}
+.book-author{font-size:12px;color:var(--muted);margin:0 0 13px}
+.buy-links{display:flex;gap:6px;flex-wrap:wrap;margin-top:auto}
+.buy-links a{font-size:10px;letter-spacing:.02em;text-decoration:none;border:1px solid #dfd4c5;border-radius:6px;padding:6px 7px;color:#6b4935}
+.buy-links a:hover{background:#6b4935;color:#fff;border-color:#6b4935}
+.empty{padding:45px 20px;text-align:center;color:var(--muted);background:var(--card);border:1px dashed var(--line);border-radius:12px}
+footer{margin-top:35px;padding:28px 0 45px;border-top:1px solid var(--line);color:var(--muted);font-size:12px}
+footer a{color:var(--accent)}
+@media(max-width:1000px){.book-grid{grid-template-columns:repeat(4,minmax(0,1fr))}.cover{height:205px}}
+@media(max-width:720px){.hero{min-height:350px;padding:32px 20px 48px}.wrap{width:min(100% - 28px,1180px)}.stats{gap:8px}.stat{padding:14px 12px}.stat strong{font-size:25px}.stat span{font-size:10px}.book-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}.cover{height:180px}.book-info{padding:10px}.book-title{font-size:14px}.buy-links a{font-size:9px;padding:5px}}
+@media(max-width:460px){.book-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.cover{height:205px}.stats{grid-template-columns:repeat(3,1fr)}.stat strong{font-size:22px}.toolbar select{flex:1}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.book-card{transition:none}}
+</style>
+</head>
+<body>
+<header class="hero">
+  <div class="hero-inner">
+    <div class="eyebrow">A personal library · 2020—2026</div>
+    <div class="hero-rule"></div>
+    <h1>My Reading<br>Journey</h1>
+    <p>A collection of stories, ideas, discoveries and voices from around the world — thoughtfully organized by genre and subject.</p>
+  </div>
+</header>
+<main class="wrap">
+  <section class="stats" aria-label="Reading statistics">
+    <div class="stat"><strong>500</strong><span>Books logged</span></div>
+    <div class="stat"><strong id="categorized-count">395</strong><span>Books categorized</span></div>
+    <div class="stat"><strong>9</strong><span>Reading categories</span></div>
+  </section>
+  <p class="note">The reading log records 500 books; 395 titles are currently listed in the nine categorized sections below. Your original reading log remains unchanged.</p>
+  <section class="toolbar" aria-label="Find books">
+    <div class="search"><input id="search" type="search" placeholder="Search by book title or author…" aria-label="Search by book title or author"></div>
+    <select id="sort" aria-label="Sort books"><option value="az">Title: A to Z</option><option value="za">Title: Z to A</option></select>
+  </section>
+  <nav class="category-nav" id="category-nav" aria-label="Book categories"></nav>
+  <div class="results-line"><span id="result-count">395 books</span><span>Choose a retailer on any book card</span></div>
+  <div id="book-sections"></div>
+  <footer>
+    <p>Book-cover images are retrieved on demand from Google Books when available. Retailer links open title searches so you can choose the edition and format you prefer.</p>
+    <p><a href="/READING_LIST.html">View the original reading list</a> · <a href="https://github.com/prasad-pai/prasad-pai.github.io/blob/master/READING_DASHBOARD.md">Dashboard source on GitHub</a></p>
+  </footer>
+</main>
+<script>
+(function(){
+"use strict";
+const books = [{"title":"A Coffin for Dimitrios","author":"Eric Ambler","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"A Novel Murder","author":"E. C. Nevin","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"A Philosophical Investigation","author":"Philip Kerr","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"A Shadow Intelligence","author":"Oliver Harris","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"A Talent for Murder","author":"Peter Swanson","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"An Instance of the Fingerpost","author":"Iain Pears","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"Anatomy of a Murder","author":"Robert Traver","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"Apples Never Fall","author":"Liane Moriarty","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"Billy Summers","author":"Stephen King","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"Black Souls","author":"Gioacchino Criaco","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"Blind Goddess","author":"Anne Holt","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"Blue Moon","author":"Lee Child","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"Creation Lake","author":"Rachel Kushner","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"Criminal: The Deluxe Edition (Vols 1, 2, 3)","author":"Ed Brubaker","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"Death at the Sign of the Rook","author":"Kate Atkinson","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"Death of a Red Heroine","author":"Qiu Xialong","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"Djinn Patrol on the Purple Line","author":"Deepa Anappara","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"Fifty Grand","author":"Adrian McKinty","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"Here One Moment","author":"Liane Moriarty","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"How to Solve Your Own Murder","author":"Kristen Perrin","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"John Dies at the End","author":"Jason Pargin","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"Killing Moon","author":"Jo Nesbo","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"Lady in the Lake","author":"Laura Lippman","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"Long Bright River","author":"Liz Moore","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"Marble Hall Murders","author":"Anthony Horowitz","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"Motherless Brooklyn","author":"Jonathan Lethem","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"My Lovely Wife","author":"Samantha Downing","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"My Sister, the Serial Killer","author":"Oyinkan Braithwaite","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"Our Woman in Moscow","author":"Beatrix Williams","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"Pietr the Latvian","author":"Georges Simenon","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"Salvation of a Saint","author":"Keigo Higashino","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"Slow Horses","author":"Mick Herron","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"Still Life","author":"Louise Penny","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"Talking to the Dead","author":"Harry Bingham","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"The Alice Network","author":"Kate Quinn","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"The Beekeeper's Apprentice","author":"Laurie R. King","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"The Case of the Missing Men","author":"Kris Bertin","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"The Coroner's Lunch","author":"Colin Cotterill","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"The Death of Mrs. Westaway","author":"Ruth Ware","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"The Decagon House Murders","author":"Yukito Ayatsuji","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"The Dentist","author":"Tim Sullivan","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"The Expats","author":"Chris Pavone","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"The Fury","author":"Alex Michaelides","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"The God of the Woods","author":"Liz Moore","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"The Man with a Load of Mischief","author":"Martha Grimes","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"The Method","author":"Matthew Quirk","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"The Mission Song","author":"John Le Carré","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"The Naive and Sentimental Lover","author":"John Le Carré","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"The Paris Apartment","author":"Lucy Foley","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"The Pigeon Tunnel","author":"John Le Carré","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"The Running Grave","author":"Robert Galbraith","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"The Sentence is Death","author":"Anthony Horowitz","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"The 7 1/2 Deaths of Evelyn Hardcastle","author":"Stuart Turton","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"The Talented Miss Farwell","author":"Emily Gray Tedrowe","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"The Train","author":"Georges Simenon","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"The Widows of Malabar Hill","author":"Sujata Massey","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"The Witch Elm","author":"Tana French","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"The Word is Murder","author":"Anthony Horowitz","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"Thus Was Adonis Murdered","author":"Sarah Caudwell","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"Vice and Virtue","author":"Libby Klein","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"Victorian Psycho","author":"Virginia Feito","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"Whose Body?","author":"Dorothy Sayers","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"Wolf Hour","author":"Jo Nesbo","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"You","author":"Caroline Kepnes","category":"🕵️‍♂️ Mystery, Crime & Thrillers"},{"title":"1Q84","author":"Haruki Murakami","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"A Desolation Called Peace","author":"Arkady Martine","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"A Deadly Education","author":"Naomi Novik","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"A Fire Upon the Deep","author":"Vernor Vinge","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"A View from the Stars","author":"Cixin Liu","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"All Systems Red","author":"Martha Wells","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"All the Birds in the Sky","author":"Charlie Jane Anders","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"Barn 8","author":"Deb Olin Unferths","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"Consider Phlebas","author":"Iain M. Banks","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"Dune","author":"Frank Herbert","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"Exhalation","author":"Ted Chiang","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"Firebreak","author":"Nicole Kornher-Stace","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"Good Omens","author":"Neil Gaiman & Terry Pratchett","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"Hench","author":"Natalie Zina Walschots","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"High Times in the Low Parliament","author":"Kelly Robson","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"Hyperion","author":"Dan Simmons","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"I Who Have Never Known Men","author":"Jacqueline Harpman","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"Kafka on the Shore","author":"Haruki Murakami","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"Klara and the Sun","author":"Kazuo Ishiguro","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"Neuromancer","author":"William Gibson","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"Night Watch","author":"Terry Pratchett","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"On the Calculation of Volume 1","author":"Solvej Balle","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"Parable of the Sower","author":"Octavia E. Butler","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"Permutation City","author":"Greg Egan","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"Polostan","author":"Neal Stephenson","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"Recursion","author":"Blake Crouch","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"Red Rising","author":"Pierce Brown","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"Serpentine","author":"Philip Pullman","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"She Who Became the Sun","author":"Shelley Parker-Chan","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"Skulduggery Pleasant","author":"Derek Landy","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"Some Desperate Glory","author":"Emily Tesh","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"Space Opera","author":"Catherynne M. Valente","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"Starport","author":"George R. R. Martin","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"Supernova Era","author":"Cixin Liu","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"The Absolute Book","author":"Elizabeth Knox","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"The Broken Earth Trilogy (The Fifth Season, The Obelisk Gate, The Stone Sky)","author":"N. K. Jemisin","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"The Burning God","author":"R. F. Kuang","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"The Callahan Chronicles","author":"Spider Robinson","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"The Dragon Republic","author":"R. F. Kuang","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"The Echo Wife","author":"Sarah Gailey","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"The Eye of the World","author":"Robert Jordan","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"The Future of Another Timeline","author":"Annalee Newitz","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"The Girl Who Could Move Sh\\*t with Her Mind","author":"Jackson Ford","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"The Gone World","author":"Tom Sweterlitsch","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"The Long Earth","author":"Terry Pratchett","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"The Man Who Folded Himself","author":"David Gerrold","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"The Midnight Library","author":"Matt Haig","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"The Ministry of Time","author":"Kaliane Bradley","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"The Paradox Hotel","author":"Rob Hart","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"The Poppy War","author":"R. F. Kuang","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"The Prestige","author":"Christopher Priest","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"The Rose Field","author":"Philip Pullman","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"The Sleepwalkers","author":"Scarlett Thomas","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"The Book of the New Sun (Shadow and Claw, Sword and Citadel)","author":"Gene Wolfe","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"The Warehouse","author":"Rob Hart","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"To Hold Up the Sky","author":"Cixin Liu","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"Transition","author":"Iain M. Banks","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"Trouble the Saints","author":"Alaya Dawn Johnson","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"Upgrade","author":"Blake Crouch","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"Wanderers","author":"Chuck Wendig","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"We","author":"Yevgeny Zamyatin","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"When the Moon Hits Your Eye","author":"John Scalzi","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"Wild Seed","author":"Octavia E. Butler","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"World War Z","author":"Max Brooks","category":"🚀 Science Fiction, Fantasy & Speculative Fiction"},{"title":"A Billion Wicked Thoughts","author":"Ogi Ogas","category":"🧬 Science, Mathematics, Technology & Rationality"},{"title":"A Brief History of Everyone Who Ever Lived","author":"Adam Rutherford","category":"🧬 Science, Mathematics, Technology & Rationality"},{"title":"Anansi's Gold","author":"Yepoka Yeebo","category":"🧬 Science, Mathematics, Technology & Rationality"},{"title":"Apocalypse Never","author":"Michael Shellenberger","category":"🧬 Science, Mathematics, Technology & Rationality"},{"title":"Art of Deception","author":"Nicholas Capaldi","category":"🧬 Science, Mathematics, Technology & Rationality"},{"title":"Body by Science","author":"John R. Little","category":"🧬 Science, Mathematics, Technology & Rationality"},{"title":"Can You Solve My Problems?","author":"Alex Bellos","category":"🧬 Science, Mathematics, Technology & Rationality"},{"title":"Dataclysm","author":"Christian Rudder","category":"🧬 Science, Mathematics, Technology & Rationality"},{"title":"Factfulness","author":"Hans Rosling","category":"🧬 Science, Mathematics, Technology & Rationality"},{"title":"Gene Machine","author":"Venki Ramakrishnan","category":"🧬 Science, Mathematics, Technology & Rationality"},{"title":"Good to Go","author":"Christie Aschwanden","category":"🧬 Science, Mathematics, Technology & Rationality"},{"title":"How to Lie with Statistics","author":"Darrell Huff","category":"🧬 Science, Mathematics, Technology & Rationality"},{"title":"Super Agers","author":"Eric Topol","category":"🧬 Science, Mathematics, Technology & Rationality"},{"title":"The Art of Logic in an Illogical World","author":"Eugenia Cheng","category":"🧬 Science, Mathematics, Technology & Rationality"},{"title":"The Demon-Haunted World","author":"Carl Sagan","category":"🧬 Science, Mathematics, Technology & Rationality"},{"title":"The Emperor of All Maladies","author":"Siddhartha Mukherjee","category":"🧬 Science, Mathematics, Technology & Rationality"},{"title":"The Gene","author":"Siddhartha Mukherjee","category":"🧬 Science, Mathematics, Technology & Rationality"},{"title":"The Math of Life and Death","author":"Kit Yates","category":"🧬 Science, Mathematics, Technology & Rationality"},{"title":"The Mind Electric","author":"Pria Anand","category":"🧬 Science, Mathematics, Technology & Rationality"},{"title":"The Order of Time","author":"Carlo Rovelli","category":"🧬 Science, Mathematics, Technology & Rationality"},{"title":"Thinking in Bets","author":"Annie Duke","category":"🧬 Science, Mathematics, Technology & Rationality"},{"title":"A Carnival of Losses","author":"Donald Hall","category":"🧠 Philosophy, Psychology & Personal Growth"},{"title":"Being Wrong","author":"Kathryn Schulz","category":"🧠 Philosophy, Psychology & Personal Growth"},{"title":"Crucial Conversations","author":"Joseph Grenny","category":"🧠 Philosophy, Psychology & Personal Growth"},{"title":"Do I Know You?","author":"Sadie Dingfelder","category":"🧠 Philosophy, Psychology & Personal Growth"},{"title":"Drawing on the Right Side of the Brain","author":"Betty Edwards","category":"🧠 Philosophy, Psychology & Personal Growth"},{"title":"How to Think Like Sherlock","author":"Daniel Smith","category":"🧠 Philosophy, Psychology & Personal Growth"},{"title":"Life in Three Dimensions","author":"Shigehiro Oishi","category":"🧠 Philosophy, Psychology & Personal Growth"},{"title":"Meditations for Mortals","author":"Oliver Burkeman","category":"🧠 Philosophy, Psychology & Personal Growth"},{"title":"Plato and a Platypus Walk Into a Bar","author":"Thomas Cathcart","category":"🧠 Philosophy, Psychology & Personal Growth"},{"title":"Poe for Your Problems","author":"Catherine Baab-Muguira","category":"🧠 Philosophy, Psychology & Personal Growth"},{"title":"Quiet: The Power of Introverts","author":"Susan Cain","category":"🧠 Philosophy, Psychology & Personal Growth"},{"title":"Socratic Logic","author":"Peter Kreeft","category":"🧠 Philosophy, Psychology & Personal Growth"},{"title":"Still the Mind","author":"Alan Watts","category":"🧠 Philosophy, Psychology & Personal Growth"},{"title":"The Book of Alchemy","author":"Suleika Jaouad","category":"🧠 Philosophy, Psychology & Personal Growth"},{"title":"The Denial of Death","author":"Ernest Becker","category":"🧠 Philosophy, Psychology & Personal Growth"},{"title":"The Examined Life","author":"Stephen Grosz","category":"🧠 Philosophy, Psychology & Personal Growth"},{"title":"The Pig That Wants to Be Eaten","author":"Julian Baggini","category":"🧠 Philosophy, Psychology & Personal Growth"},{"title":"The Politics of the Family and Other Essays","author":"R. D. Laing","category":"🧠 Philosophy, Psychology & Personal Growth"},{"title":"The Socrates Express","author":"Eric Weiner","category":"🧠 Philosophy, Psychology & Personal Growth"},{"title":"When Everyone Knows That Everyone Knows","author":"Steven Pinker","category":"🧠 Philosophy, Psychology & Personal Growth"},{"title":"Yoga for the Inflexible Male","author":"Yoga Matt","category":"🧠 Philosophy, Psychology & Personal Growth"},{"title":"Alienation","author":"Inés Estrada","category":"🎨 Graphic Novels, Cartoons & Visual Arts"},{"title":"Almost American Girl","author":"Robin Ha","category":"🎨 Graphic Novels, Cartoons & Visual Arts"},{"title":"Apsara Engine","author":"Baisakh Som","category":"🎨 Graphic Novels, Cartoons & Visual Arts"},{"title":"Banned Book Club","author":"Hyun Sook Kim","category":"🎨 Graphic Novels, Cartoons & Visual Arts"},{"title":"Bitch Planet (Book One: Extraordinary Machine)","author":"Kelly Sue DeConnick","category":"🎨 Graphic Novels, Cartoons & Visual Arts"},{"title":"BTTM FDRS","author":"Ezra Claytan Daniels","category":"🎨 Graphic Novels, Cartoons & Visual Arts"},{"title":"Brownstone","author":"Samuel Teer","category":"🎨 Graphic Novels, Cartoons & Visual Arts"},{"title":"Death Wins a Goldfish","author":"Brian Rea","category":"🎨 Graphic Novels, Cartoons & Visual Arts"},{"title":"Feeding Ghosts","author":"Tessa Hulls","category":"🎨 Graphic Novels, Cartoons & Visual Arts"},{"title":"Harley Quinn: Breaking Glass","author":"Mariko Tamaki & Steve Pugh","category":"🎨 Graphic Novels, Cartoons & Visual Arts"},{"title":"Jim Henson's Tale of Sand","author":"Ramón Pérez","category":"🎨 Graphic Novels, Cartoons & Visual Arts"},{"title":"Life Drawing","author":"Jaime Hernandez","category":"🎨 Graphic Novels, Cartoons & Visual Arts"},{"title":"Mafalda","author":"Quino","category":"🎨 Graphic Novels, Cartoons & Visual Arts"},{"title":"On a Sunbeam","author":"Tillie Walden","category":"🎨 Graphic Novels, Cartoons & Visual Arts"},{"title":"Past Tense","author":"Mardou","category":"🎨 Graphic Novels, Cartoons & Visual Arts"},{"title":"Saladology","author":"Theo Kirwan","category":"🎨 Graphic Novels, Cartoons & Visual Arts"},{"title":"Spent","author":"Alison Bechdel","category":"🎨 Graphic Novels, Cartoons & Visual Arts"},{"title":"Stanislaw Lem's The Seventh Voyage","author":"Jon J Muth","category":"🎨 Graphic Novels, Cartoons & Visual Arts"},{"title":"Swimming in Darkness","author":"Lucas Harari","category":"🎨 Graphic Novels, Cartoons & Visual Arts"},{"title":"The American Dream?","author":"Shing Yin Khor","category":"🎨 Graphic Novels, Cartoons & Visual Arts"},{"title":"The Daughters of Ys","author":"M. T. Anderson","category":"🎨 Graphic Novels, Cartoons & Visual Arts"},{"title":"The Hard Tomorrow","author":"Eleanor Davis","category":"🎨 Graphic Novels, Cartoons & Visual Arts"},{"title":"The Man Without Talent","author":"Yoshiharu Tsuge","category":"🎨 Graphic Novels, Cartoons & Visual Arts"},{"title":"The Sad Ghost Club","author":"Lize Meddings","category":"🎨 Graphic Novels, Cartoons & Visual Arts"},{"title":"The Spire","author":"Simon Spurrier","category":"🎨 Graphic Novels, Cartoons & Visual Arts"},{"title":"The World of Edena","author":"Moebius","category":"🎨 Graphic Novels, Cartoons & Visual Arts"},{"title":"Tongues (Book 1)","author":"Anders Nilsen","category":"🎨 Graphic Novels, Cartoons & Visual Arts"},{"title":"Unhinged: USA Political Cartoons & Commentary","author":"Dave Horsey","category":"🎨 Graphic Novels, Cartoons & Visual Arts"},{"title":"Year of the Rabbit","author":"Tian","category":"🎨 Graphic Novels, Cartoons & Visual Arts"},{"title":"You Can Draw It in Just 30 Minutes","author":"Mark Kistler","category":"🎨 Graphic Novels, Cartoons & Visual Arts"},{"title":"A Children's Bible","author":"Lydia Millet","category":"🏛️ Literary Fiction & Classics"},{"title":"A Confederacy of Dunces","author":"John Kennedy Toole","category":"🏛️ Literary Fiction & Classics"},{"title":"A Little Life","author":"Hanya Yanagihara","category":"🏛️ Literary Fiction & Classics"},{"title":"A Visit from the Goon Squad","author":"Jennifer Egan","category":"🏛️ Literary Fiction & Classics"},{"title":"All Fours","author":"Miranda July","category":"🏛️ Literary Fiction & Classics"},{"title":"All Quiet on the Western Front","author":"Erich Maria Remarque","category":"🏛️ Literary Fiction & Classics"},{"title":"All That Man Is","author":"David Szalay","category":"🏛️ Literary Fiction & Classics"},{"title":"Barney's Version","author":"Mordecai Richler","category":"🏛️ Literary Fiction & Classics"},{"title":"Blood Meridian","author":"Cormac McCarthy","category":"🏛️ Literary Fiction & Classics"},{"title":"Breasts and Eggs","author":"Mieko Kawakami","category":"🏛️ Literary Fiction & Classics"},{"title":"Catherine House","author":"Elisabeth Thomas","category":"🏛️ Literary Fiction & Classics"},{"title":"Cloud Cuckoo Land","author":"Anthony Doerr","category":"🏛️ Literary Fiction & Classics"},{"title":"Cold Comfort Farm","author":"Stella Gibbons","category":"🏛️ Literary Fiction & Classics"},{"title":"Crossroads","author":"Jonathan Franzen","category":"🏛️ Literary Fiction & Classics"},{"title":"Demon Copperhead","author":"Barbara Kingsolver","category":"🏛️ Literary Fiction & Classics"},{"title":"Fates and Furies","author":"Lauren Groff","category":"🏛️ Literary Fiction & Classics"},{"title":"Ferdydurke","author":"Witold Gombrowicz","category":"🏛️ Literary Fiction & Classics"},{"title":"Flesh","author":"David Szalay","category":"🏛️ Literary Fiction & Classics"},{"title":"Freedom","author":"Jonathan Franzen","category":"🏛️ Literary Fiction & Classics"},{"title":"French Exit","author":"Patrick deWitt","category":"🏛️ Literary Fiction & Classics"},{"title":"Giovanni's Room","author":"James Baldwin","category":"🏛️ Literary Fiction & Classics"},{"title":"Good Behavior","author":"Molly Keane","category":"🏛️ Literary Fiction & Classics"},{"title":"Great Expectations","author":"Vinson Cunningham","category":"🏛️ Literary Fiction & Classics"},{"title":"Hard Rain Falling","author":"Don Carpenter","category":"🏛️ Literary Fiction & Classics"},{"title":"Human Acts","author":"Han Kang","category":"🏛️ Literary Fiction & Classics"},{"title":"How Should a Person Be?","author":"Sheila Heti","category":"🏛️ Literary Fiction & Classics"},{"title":"I Is Another","author":"Jon Fosse","category":"🏛️ Literary Fiction & Classics"},{"title":"Intimacies","author":"Katie Kitamura","category":"🏛️ Literary Fiction & Classics"},{"title":"It Can't Happen Here","author":"Sinclair Lewis","category":"🏛️ Literary Fiction & Classics"},{"title":"James","author":"Percival Everett","category":"🏛️ Literary Fiction & Classics"},{"title":"Johnny Got His Gun","author":"Dalton Trumbo","category":"🏛️ Literary Fiction & Classics"},{"title":"Julia","author":"Sandra Newman","category":"🏛️ Literary Fiction & Classics"},{"title":"King Sorrow","author":"Joe Hill","category":"🏛️ Literary Fiction & Classics"},{"title":"Liars","author":"Sarah Manguso","category":"🏛️ Literary Fiction & Classics"},{"title":"Lord Jim at Home","author":"Dinah Brooke","category":"🏛️ Literary Fiction & Classics"},{"title":"Middlemarch","author":"George Eliot","category":"🏛️ Literary Fiction & Classics"},{"title":"Mrs. Dalloway","author":"Virginia Woolf","category":"🏛️ Literary Fiction & Classics"},{"title":"My Ántonia","author":"Willa Cather","category":"🏛️ Literary Fiction & Classics"},{"title":"Normal People","author":"Sally Rooney","category":"🏛️ Literary Fiction & Classics"},{"title":"Outline","author":"Rachel Cusk","category":"🏛️ Literary Fiction & Classics"},{"title":"Problems","author":"Jade Sharma","category":"🏛️ Literary Fiction & Classics"},{"title":"Red Rising","author":"Pierce Brown","category":"🏛️ Literary Fiction & Classics"},{"title":"Shuggie Bain","author":"Douglas Stuart","category":"🏛️ Literary Fiction & Classics"},{"title":"Some Can Whistle","author":"Larry McMurtry","category":"🏛️ Literary Fiction & Classics"},{"title":"The Book of Ayn","author":"Lexi Freiman","category":"🏛️ Literary Fiction & Classics"},{"title":"The Book of Illusions","author":"Paul Auster","category":"🏛️ Literary Fiction & Classics"},{"title":"The Brothers Karamazov","author":"Fyodor Dostoevsky","category":"🏛️ Literary Fiction & Classics"},{"title":"The Children's Book","author":"A. S. Byatt","category":"🏛️ Literary Fiction & Classics"},{"title":"The Corrections","author":"Jonathan Franzen","category":"🏛️ Literary Fiction & Classics"},{"title":"The Door","author":"Magda Szabo","category":"🏛️ Literary Fiction & Classics"},{"title":"The Elegance of the Hedgehog","author":"Muriel Barbery","category":"🏛️ Literary Fiction & Classics"},{"title":"The Empusium","author":"Olga Tokarczuk","category":"🏛️ Literary Fiction & Classics"},{"title":"The Glass Bead Game","author":"Hermann Hesse","category":"🏛️ Literary Fiction & Classics"},{"title":"The Other Name","author":"Jon Fosse","category":"🏛️ Literary Fiction & Classics"},{"title":"The Prime of Miss Jean Brodie","author":"Muriel Spark","category":"🏛️ Literary Fiction & Classics"},{"title":"The Remains of the Day","author":"Kazuo Ishiguro","category":"🏛️ Literary Fiction & Classics"},{"title":"The Reluctant Fundamentalist","author":"Mohsin Hamid","category":"🏛️ Literary Fiction & Classics"},{"title":"The Savage Detectives","author":"Roberto Bolaño","category":"🏛️ Literary Fiction & Classics"},{"title":"The Schoolboys of Jesus","author":"J. M. Coetzee","category":"🏛️ Literary Fiction & Classics"},{"title":"The Third Policeman","author":"Flann O'Brien","category":"🏛️ Literary Fiction & Classics"},{"title":"The Trees","author":"Percival Everett","category":"🏛️ Literary Fiction & Classics"},{"title":"The Unbearable Lightness of Being","author":"Milan Kundera","category":"🏛️ Literary Fiction & Classics"},{"title":"The World's Greatest Detective","author":"Caroline Carlson","category":"🏛️ Literary Fiction & Classics"},{"title":"Turtles All the Way Down","author":"John Green","category":"🏛️ Literary Fiction & Classics"},{"title":"Us Fools","author":"Nora Lange","category":"🏛️ Literary Fiction & Classics"},{"title":"Vernon Subutex 1","author":"Virginie Despentes","category":"🏛️ Literary Fiction & Classics"},{"title":"Wild Houses","author":"Colin Barrett","category":"🏛️ Literary Fiction & Classics"},{"title":"4 3 2 1","author":"Paul Auster","category":"📜 Historical Fiction & Epics"},{"title":"A Guardian and a Thief","author":"Megha Majumdar","category":"📜 Historical Fiction & Epics"},{"title":"A Town Like Alice","author":"Nevil Shute","category":"📜 Historical Fiction & Epics"},{"title":"Days Without End","author":"Sebastian Barry","category":"📜 Historical Fiction & Epics"},{"title":"Gilead","author":"Marilynne Robinson","category":"📜 Historical Fiction & Epics"},{"title":"Hondo","author":"Louis L'Amour","category":"📜 Historical Fiction & Epics"},{"title":"Lonesome Dove","author":"Larry McMurtry","category":"📜 Historical Fiction & Epics"},{"title":"Matrix","author":"Lauren Groff","category":"📜 Historical Fiction & Epics"},{"title":"Musashi","author":"Eiji Yoshikawa","category":"📜 Historical Fiction & Epics"},{"title":"Shogun","author":"James Clavell","category":"📜 Historical Fiction & Epics"},{"title":"Small Things Like These","author":"Claire Keegan","category":"📜 Historical Fiction & Epics"},{"title":"The Blind Assassin","author":"Margaret Atwood","category":"📜 Historical Fiction & Epics"},{"title":"The Books of Jacob","author":"Olga Tokarczuk","category":"📜 Historical Fiction & Epics"},{"title":"The Border Trilogy (The Power of the Dog, The Cartel, The Border)","author":"Don Winslow","category":"📜 Historical Fiction & Epics"},{"title":"The Bright Sword","author":"Lev Grossman","category":"📜 Historical Fiction & Epics"},{"title":"The Covenant of Water","author":"Abraham Verghese","category":"📜 Historical Fiction & Epics"},{"title":"The Handmaid's Tale","author":"Margaret Atwood","category":"📜 Historical Fiction & Epics"},{"title":"The Hollywood Trilogy","author":"Don Carpenter","category":"📜 Historical Fiction & Epics"},{"title":"The Inheritance of Loss","author":"Kiran Desai","category":"📜 Historical Fiction & Epics"},{"title":"The Lincoln Highway","author":"Amor Towles","category":"📜 Historical Fiction & Epics"},{"title":"The Marriage Portrait","author":"Maggie O'Farrell","category":"📜 Historical Fiction & Epics"},{"title":"The Nickel Boys","author":"Colson Whitehead","category":"📜 Historical Fiction & Epics"},{"title":"The Secret River","author":"Kate Grenville","category":"📜 Historical Fiction & Epics"},{"title":"The Secrets We Kept","author":"Lara Prescott","category":"📜 Historical Fiction & Epics"},{"title":"The Stone Diaries","author":"Carol Shields","category":"📜 Historical Fiction & Epics"},{"title":"The Testaments","author":"Margaret Atwood","category":"📜 Historical Fiction & Epics"},{"title":"The Thousand Autumns of Jacob de Zoet","author":"David Mitchell","category":"📜 Historical Fiction & Epics"},{"title":"The Women","author":"Kristin Hannah","category":"📜 Historical Fiction & Epics"},{"title":"Wolf Hall","author":"Hilary Mantel","category":"📜 Historical Fiction & Epics"},{"title":"Apropos of Nothing","author":"Woody Allen","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"All the Way to the Tigers","author":"Mary Morris","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"Behind the Beautiful Forevers","author":"Katherine Boo","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"Bruce Lee: Artist of Life","author":"Bruce Lee","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"Catch and Kill","author":"Ronan Farrow","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"China, India and the United States","author":"Peter Rodriguez","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"Democracy for Realists","author":"Christopher H. Achen","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"Doppelganger","author":"Naomi Klein","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"Eat the Buddha","author":"Barbara Demick","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"Eating Việt Nam","author":"Graham Holliday","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"Educated","author":"Tara Westover","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"Factotum","author":"Charles Bukowski","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"From the Ruins of Empire","author":"Pankaj Mishra","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"God Economics for Hard Times","author":"Abhijit Banerjee","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"Going Infinite","author":"Michael Lewis","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"Ham on Rye","author":"Charles Bukowski","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"Here We Are","author":"Aarti Namdev Shahani","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"How Not to Die","author":"Jan Garavaglia","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"In Cold Blood","author":"Truman Capote","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"Joseph Anton","author":"Salman Rushdie","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"Just as I Am","author":"Cicely Tyson","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"Life and Death in the Andes","author":"Kim MacQuarrie","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"Moneyland","author":"Oliver Bullough","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"Mother Mary Comes to Me","author":"Arundhati Roy","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"My Broken Language","author":"Quiara Alegría Hudes","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"My Own Devices","author":"Dessa","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"Notes to John","author":"Joan Didion","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"Permanent Record","author":"Edward Snowden","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"Priestdaddy","author":"Patricia Lockwood","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"Slouching Towards Bethlehem","author":"Joan Didion","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"Talking to Strangers","author":"Malcolm Gladwell","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"The Anarchy","author":"William Dalrymple","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"The Argonauts","author":"Maggie Nelson","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"The Fry Chronicles","author":"Stephen Fry","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"The Good Girls","author":"Sonia Faleiro","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"The Mastermind","author":"Evan Ratliff","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"The Shanghai Free Taxi","author":"Frank Langfitt","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"The Undying","author":"Anne Boyer","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"The Unexpurgated Code","author":"J. P. Donleavy","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"They Called Us Enemy","author":"George Takei","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"Three Women","author":"Lisa Taddeo","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"Trick Mirror","author":"Jia Tolentino","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"True Brews","author":"Emma Christensen","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"We Don't Know Ourselves","author":"Fintan O'Toole","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"Who Is Government","author":"Michael Lewis","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"Wild Game","author":"Adrienne Brodeur","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"Yearbook","author":"Seth Rogen","category":"🗣️ Memoir, Biography, Essays & Non-Fiction"},{"title":"10 Minutes 38 Seconds in This Strange World","author":"Elif Shafak","category":"🌏 Global, Translated & Cultural Literature"},{"title":"2 A.M. in Little America","author":"Ken Kalfus","category":"🌏 Global, Translated & Cultural Literature"},{"title":"A Burning","author":"Megha Majumdar","category":"🌏 Global, Translated & Cultural Literature"},{"title":"A Ghost in the Throat","author":"Doireann Ní Ghríofa","category":"🌏 Global, Translated & Cultural Literature"},{"title":"A Man","author":"Keiichirō Hirano","category":"🌏 Global, Translated & Cultural Literature"},{"title":"Age of Vice","author":"Deepti Kapoor","category":"🌏 Global, Translated & Cultural Literature"},{"title":"An Island","author":"Karen Jennings","category":"🌏 Global, Translated & Cultural Literature"},{"title":"Amnesty","author":"Aravind Adiga","category":"🌏 Global, Translated & Cultural Literature"},{"title":"Before the Coffee Gets Cold","author":"Toshikazu Kawaguchi","category":"🌏 Global, Translated & Cultural Literature"},{"title":"Black Sunday","author":"Tola Rotimi Abraham","category":"🌏 Global, Translated & Cultural Literature"},{"title":"Bluebeard's First Wife","author":"Song-nan Ha","category":"🌏 Global, Translated & Cultural Literature"},{"title":"Circumference of the World","author":"Lavie Tidhar","category":"🌏 Global, Translated & Cultural Literature"},{"title":"Disorientation","author":"Elaine Hsieh Chou","category":"🌏 Global, Translated & Cultural Literature"},{"title":"Erotic Stories for Punjabi Widows","author":"Balli Kaur Jaswal","category":"🌏 Global, Translated & Cultural Literature"},{"title":"Every Day I Read","author":"Po-rŭm Hwang","category":"🌏 Global, Translated & Cultural Literature"},{"title":"Flashlight","author":"Susan Choi","category":"🌏 Global, Translated & Cultural Literature"},{"title":"Heart Lamp","author":"Banu Mushtaq","category":"🌏 Global, Translated & Cultural Literature"},{"title":"Homeland Elegies","author":"Ayad Akhtar","category":"🌏 Global, Translated & Cultural Literature"},{"title":"It Would Be Night in Caracas","author":"Karina Sainz Borgo","category":"🌏 Global, Translated & Cultural Literature"},{"title":"Kairos","author":"Jenny Erpenbeck","category":"🌏 Global, Translated & Cultural Literature"},{"title":"Little Rot","author":"Akwaeke Emezi","category":"🌏 Global, Translated & Cultural Literature"},{"title":"Love Marriage","author":"Monica Ali","category":"🌏 Global, Translated & Cultural Literature"},{"title":"Mexican Gothic","author":"Silvia Moreno-Garcia","category":"🌏 Global, Translated & Cultural Literature"},{"title":"Mona's Eyes","author":"Thomas Schlesser","category":"🌏 Global, Translated & Cultural Literature"},{"title":"My Brilliant Life","author":"Ae-ran Kim","category":"🌏 Global, Translated & Cultural Literature"},{"title":"Night Boat to Tangier","author":"Kevin Barry","category":"🌏 Global, Translated & Cultural Literature"},{"title":"Pachinko","author":"Min Jin Lee","category":"🌏 Global, Translated & Cultural Literature"},{"title":"Paradais","author":"Fernanda Melchor","category":"🌏 Global, Translated & Cultural Literature"},{"title":"Sakina's Kiss","author":"Vivek Shanbhag","category":"🌏 Global, Translated & Cultural Literature"},{"title":"Scattered All Over the Earth","author":"Yoko Tawada","category":"🌏 Global, Translated & Cultural Literature"},{"title":"Silent Winds, Dry Seas","author":"Vinod Busjeet","category":"🌏 Global, Translated & Cultural Literature"},{"title":"Stolen","author":"Ann-Helén Laestadius","category":"🌏 Global, Translated & Cultural Literature"},{"title":"The Archer","author":"Shruti Swamy","category":"🌏 Global, Translated & Cultural Literature"},{"title":"The Details","author":"Ia Genberg","category":"🌏 Global, Translated & Cultural Literature"},{"title":"The Elephant Vanishes","author":"Haruki Murakami","category":"🌏 Global, Translated & Cultural Literature"},{"title":"The Forty Rules of Love","author":"Elif Shafak","category":"🌏 Global, Translated & Cultural Literature"},{"title":"The God of Small Things","author":"Arundhati Roy","category":"🌏 Global, Translated & Cultural Literature"},{"title":"The Good Soldier Švejk","author":"Jaroslav Hašek","category":"🌏 Global, Translated & Cultural Literature"},{"title":"The Journey to the West (Vol 1)","author":"Anthony Yu","category":"🌏 Global, Translated & Cultural Literature"},{"title":"The Loneliness of Sonia and Sunny","author":"Kiran Desai","category":"🌏 Global, Translated & Cultural Literature"},{"title":"The Old Drift","author":"Namwali Serpell","category":"🌏 Global, Translated & Cultural Literature"},{"title":"The Orchard","author":"Kristina Gorcheva-Newberry","category":"🌏 Global, Translated & Cultural Literature"},{"title":"The Rachel Incident","author":"Caroline O'Donoghue","category":"🌏 Global, Translated & Cultural Literature"},{"title":"The Seven Moons of Maali Almeida","author":"Shehan Karunatilaka","category":"🌏 Global, Translated & Cultural Literature"},{"title":"The Silence of the Choir","author":"Mohamed Mbougar Sarr","category":"🌏 Global, Translated & Cultural Literature"},{"title":"The Stranger","author":"Albert Camus","category":"🌏 Global, Translated & Cultural Literature"},{"title":"The Startup Wife","author":"Tahmima Anam","category":"🌏 Global, Translated & Cultural Literature"},{"title":"The White Book","author":"Han Kang","category":"🌏 Global, Translated & Cultural Literature"},{"title":"The Wind-Up Bird Chronicle","author":"Haruki Murakami","category":"🌏 Global, Translated & Cultural Literature"},{"title":"This Is Not Miami","author":"Fernanda Melchor","category":"🌏 Global, Translated & Cultural Literature"},{"title":"Wahala","author":"Nikki May","category":"🌏 Global, Translated & Cultural Literature"},{"title":"Where the Wild Ladies Are","author":"Aoko Matsuda","category":"🌏 Global, Translated & Cultural Literature"}];
+const categories = Array.from(new Set(books.map(b=>b.category)));
+const nav = document.getElementById("category-nav");
+const sections = document.getElementById("book-sections");
+const search = document.getElementById("search");
+const sort = document.getElementById("sort");
+const count = document.getElementById("result-count");
+let activeCategory = "All categories";
+let query = "";
+let coverCache = {};
+try { coverCache = JSON.parse(localStorage.getItem("readingDashboardCoverCacheV1") || "{}"); } catch(e) {}
+const coverPromises = new Map();
+const queue = [];
+let running = 0;
+function make(tag, cls, text){
+  const el=document.createElement(tag);
+  if(cls) el.className=cls;
+  if(text!==undefined) el.textContent=text;
+  return el;
+}
+function makeLink(label,url){
+  const a=make("a","",label);
+  a.href=url;a.target="_blank";a.rel="noopener noreferrer";
+  return a;
+}
+function coverKey(b){return b.title+"|"+b.author;}
+function applyCover(card,url){
+  if(!url) return;
+  const img=card.querySelector("img");
+  img.onload=function(){img.style.display="block";};
+  img.onerror=function(){img.style.display="none";};
+  img.src=url;
+}
+function pump(){
+  while(running<3 && queue.length){
+    const task=queue.shift();running++;
+    fetchCover(task.book).then(url=>{if(url) applyCover(task.card,url);})
+      .catch(()=>{}).finally(()=>{running--;pump();});
+  }
+}
+function fetchCover(book){
+  const key=coverKey(book);
+  if(Object.prototype.hasOwnProperty.call(coverCache,key)) return Promise.resolve(coverCache[key]);
+  if(coverPromises.has(key)) return coverPromises.get(key);
+  const promise=new Promise(resolve=>{
+    queue.push({book,resolve,card:null});
+    const task=queue[queue.length-1];
+    task.runResolve=resolve;
+    pump();
+  });
+  coverPromises.set(key,promise);
+  return promise;
+}
+function enqueueCover(card,book){
+  const key=coverKey(book);
+  if(Object.prototype.hasOwnProperty.call(coverCache,key)){applyCover(card,coverCache[key]);return;}
+  if(coverPromises.has(key)){coverPromises.get(key).then(url=>applyCover(card,url));return;}
+  const promise=new Promise(resolve=>{
+    queue.push({book,card,resolve});
+    pump();
+  });
+  coverPromises.set(key,promise);
+}
+function pump(){
+  while(running<3 && queue.length){
+    const task=queue.shift();running++;
+    const q='intitle:"'+task.book.title+'" inauthor:"'+task.book.author+'"';
+    fetch("https://www.googleapis.com/books/v1/volumes?q="+encodeURIComponent(q)+"&maxResults=1&printType=books")
+      .then(r=>r.ok?r.json():null)
+      .then(data=>{
+        let url="";
+        const item=data && data.items && data.items[0];
+        if(item && item.volumeInfo && item.volumeInfo.imageLinks){
+          url=item.volumeInfo.imageLinks.thumbnail || item.volumeInfo.imageLinks.smallThumbnail || "";
+          url=url.replace(/^http:/,"https:").replace(/&edge=curl/,"");
+        }
+        coverCache[coverKey(task.book)]=url;
+        try{localStorage.setItem("readingDashboardCoverCacheV1",JSON.stringify(coverCache));}catch(e){}
+        if(url && task.card) applyCover(task.card,url);
+        task.resolve(url);
+      })
+      .catch(()=>{task.resolve("");})
+      .finally(()=>{running--;pump();});
+  }
+}
+function renderNav(){
+  nav.replaceChildren();
+  ["All categories"].concat(categories).forEach(cat=>{
+    const b=make("button","chip"+(cat===activeCategory?" active":""),cat);
+    b.type="button";b.addEventListener("click",()=>{activeCategory=cat;renderNav();render();});
+    nav.appendChild(b);
+  });
+}
+function createCard(book){
+  const card=make("article","book-card");
+  const cover=make("div","cover");
+  const fallback=make("div","cover-fallback",book.title);
+  const img=make("img","");
+  img.alt="Cover of "+book.title+" by "+book.author;
+  img.loading="lazy";
+  cover.append(fallback,img);
+  const info=make("div","book-info");
+  info.append(make("h3","book-title",book.title),make("p","book-author",book.author));
+  const links=make("div","buy-links");
+  const term=encodeURIComponent(book.title+" "+book.author);
+  links.append(makeLink("Amazon","https://www.amazon.com/s?k="+term));
+  links.append(makeLink("Bookshop","https://bookshop.org/search?keywords="+term));
+  links.append(makeLink("B&N","https://www.barnesandnoble.com/s/"+term));
+  info.appendChild(links);
+  card.append(cover,info);
+  enqueueCover(card,book);
+  return card;
+}
+function render(){
+  const normalized=query.toLocaleLowerCase();
+  let filtered=books.filter(b=>(activeCategory==="All categories"||b.category===activeCategory) &&
+    (b.title+" "+b.author+" "+b.category).toLocaleLowerCase().includes(normalized));
+  filtered.sort((a,b)=>a.title.localeCompare(b.title,undefined,{sensitivity:"base"})*(sort.value==="az"?1:-1));
+  count.textContent=filtered.length+" "+(filtered.length===1?"book":"books");
+  sections.replaceChildren();
+  if(!filtered.length){sections.appendChild(make("div","empty","No books match that search. Try another title, author or category."));return;}
+  const grouped=new Map();
+  filtered.forEach(b=>{if(!grouped.has(b.category))grouped.set(b.category,[]);grouped.get(b.category).push(b);});
+  grouped.forEach((items,cat)=>{
+    const section=make("section","category-section");
+    const heading=make("div","category-heading");
+    heading.append(make("h2","",cat),make("span","",items.length+" titles"));
+    const grid=make("div","book-grid");
+    items.forEach(b=>grid.appendChild(createCard(b)));
+    section.append(heading,grid);
+    sections.appendChild(section);
+  });
+}
+search.addEventListener("input",()=>{query=search.value.trim();render();});
+sort.addEventListener("change",render);
+document.getElementById("categorized-count").textContent=String(books.length);
+renderNav();render();
+})();
+</script>
+</body>
+</html>
