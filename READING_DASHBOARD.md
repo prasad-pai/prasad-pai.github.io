@@ -152,7 +152,16 @@ function fetchCover(book){
   coverPromises.set(key,promise);
   return promise;
 }
-function enqueueCover(card,book){
+const coverObserver = "IntersectionObserver" in window ? new IntersectionObserver(entries=>{
+  entries.forEach(entry=>{
+    if(entry.isIntersecting){
+      const card=entry.target;
+      coverObserver.unobserve(card);
+      loadCoverForCard(card,card._book);
+    }
+  });
+},{rootMargin:"300px"}) : null;
+function loadCoverForCard(card,book){
   const key=coverKey(book);
   if(Object.prototype.hasOwnProperty.call(coverCache,key)){applyCover(card,coverCache[key]);return;}
   if(coverPromises.has(key)){coverPromises.get(key).then(url=>applyCover(card,url));return;}
@@ -161,6 +170,11 @@ function enqueueCover(card,book){
     pump();
   });
   coverPromises.set(key,promise);
+}
+function enqueueCover(card,book){
+  card._book=book;
+  if(coverObserver) coverObserver.observe(card);
+  else loadCoverForCard(card,book);
 }
 function pump(){
   while(running<3 && queue.length){
