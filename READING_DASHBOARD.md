@@ -92,7 +92,7 @@ footer a{color:var(--accent)}
   <div class="results-line"><span id="result-count">395 books</span><span>Choose a retailer on any book card</span></div>
   <div id="book-sections"></div>
   <footer>
-    <p>Book-cover images are retrieved on demand from Google Books when available. Retailer links open title searches so you can choose the edition and format you prefer.</p>
+    <p>Book records are matched on demand to Open Library works. Each confident match links to its stable work ID and displays available author, first-publication year, cover and subject information. Ambiguous matches are left unmatched rather than guessed.</p>
     <p><a href="/READING_LIST.html">View the original reading list</a> · <a href="https://github.com/prasad-pai/prasad-pai.github.io/blob/master/READING_DASHBOARD.md">Dashboard source on GitHub</a></p>
   </footer>
 </main>
@@ -109,8 +109,8 @@ const count = document.getElementById("result-count");
 let activeCategory = "All categories";
 let query = "";
 let coverCache = {};
-try { coverCache = JSON.parse(localStorage.getItem("readingDashboardCoverCacheV1") || "{}"); } catch(e) {}
-const coverPromises = new Map();
+try { coverCache = JSON.parse(localStorage.getItem("readingDashboardOpenLibraryV1") || "{}"); } catch(e) {}
+const lookupPromises = new Map();
 const queue = [];
 let running = 0;
 function make(tag, cls, text){
@@ -125,78 +125,98 @@ function makeLink(label,url){
   return a;
 }
 function coverKey(b){return b.title+"|"+b.author;}
-function applyCover(card,url){
-  if(!url) return;
+function normalize(s){
+  return (s||"").toLocaleLowerCase().normalize("NFD").replace(/[\\u0300-\\u036f]/g,"").replace(/[^a-z0-9]+/g," ").trim();
+}
+function applyRecord(card,record){
   const img=card.querySelector("img");
-  img.onload=function(){img.style.display="block";};
-  img.onerror=function(){img.style.display="none";};
-  img.src=url;
+  const id=card.querySelector(".work-id");
+  const year=card.querySelector(".publish-year");
+  const authors=card.querySelector(".matched-authors");
+  const subjects=card.querySelector(".subjects");
+  const status=card.querySelector(".match-status");
+  if(!record){
+    status.textContent="No confident Open Library match";
+    return;
+  }
+  status.textContent="";
+  if(record.cover_i){
+    img.onload=()=>{img.style.display="block";};
+    img.onerror=()=>{img.style.display="none";};
+    img.src="https://covers.openlibrary.org/b/id/"+record.cover_i+"-M.jpg";
+  }
+  const workUrl="https://openlibrary.org"+record.key;
+  id.appendChild(makeLink(record.key.replace("/works/",""),workUrl));
+  year.textContent=record.first_publish_year ? "First published "+record.first_publish_year : "First publication year unavailable";
+  authors.textContent=(record.author_name||[]).join(", ") || "Author details unavailable";
+  (record.subject||[]).slice(0,3).forEach(subject=>subjects.appendChild(make("span","subject-tag",subject)));
+}
+function findBestMatch(book,docs){
+  const wantedTitle=normalize(book.title), wantedAuthor=normalize(book.author);
+  let best=null,bestScore=0;
+  for(const doc of docs||[]){
+    const title=normalize(doc.title);
+    if(!title || title!==wantedTitle) continue;
+    const names=(doc.author_name||[]).map(normalize);
+    let authorScore=0;
+    for(const name of names){
+      if(name===wantedAuthor) authorScore=1;
+      else if(name.includes(wantedAuthor)||wantedAuthor.includes(name)) authorScore=Math.max(authorScore,.8);
+      else {
+        const surname=wantedAuthor.split(" ").filter(Boolean).slice(-1)[0];
+        if(surname && name.split(" ").includes(surname)) authorScore=Math.max(authorScore,.55);
+      }
+    }
+    const score=authorScore+(doc.cover_i?0.05:0)+(doc.first_publish_year?0.02:0);
+    if(score>bestScore){best=doc;bestScore=score;}
+  }
+  return bestScore>=.55 ? best : null;
 }
 function pump(){
-  while(running<3 && queue.length){
+  while(running<2 && queue.length){
     const task=queue.shift();running++;
-    fetchCover(task.book).then(url=>{if(url) applyCover(task.card,url);})
-      .catch(()=>{}).finally(()=>{running--;pump();});
+    const params=new URLSearchParams({title:task.book.title,author:task.book.author,fields:"key,title,author_name,first_publish_year,cover_i,subject",limit:"10"});
+    fetch("https://openlibrary.org/search.json?"+params.toString())
+      .then(r=>r.ok?r.json():null)
+      .then(data=>{
+        const match=findBestMatch(task.book,data&&data.docs);
+        coverCache[coverKey(task.book)]=match||false;
+        try{localStorage.setItem("readingDashboardOpenLibraryV1",JSON.stringify(coverCache));}catch(e){}
+        if(match) applyRecord(task.card,match);
+        else if(task.card) task.card.querySelector(".match-status").textContent="No confident Open Library match";
+        task.resolve(match);
+      })
+      .catch(()=>{if(task.card)task.card.querySelector(".match-status").textContent="Open Library lookup unavailable";task.resolve(null);})
+      .finally(()=>{running--;pump();});
   }
 }
-function fetchCover(book){
-  const key=coverKey(book);
-  if(Object.prototype.hasOwnProperty.call(coverCache,key)) return Promise.resolve(coverCache[key]);
-  if(coverPromises.has(key)) return coverPromises.get(key);
-  const promise=new Promise(resolve=>{
-    queue.push({book,resolve,card:null});
-    const task=queue[queue.length-1];
-    task.runResolve=resolve;
-    pump();
-  });
-  coverPromises.set(key,promise);
-  return promise;
-}
-const coverObserver = "IntersectionObserver" in window ? new IntersectionObserver(entries=>{
+const lookupObserver = "IntersectionObserver" in window ? new IntersectionObserver(entries=>{
   entries.forEach(entry=>{
     if(entry.isIntersecting){
       const card=entry.target;
-      coverObserver.unobserve(card);
-      loadCoverForCard(card,card._book);
+      lookupObserver.unobserve(card);
+      loadRecordForCard(card,card._book);
     }
   });
-},{rootMargin:"300px"}) : null;
-function loadCoverForCard(card,book){
+},{rootMargin:"350px"}) : null;
+function loadRecordForCard(card,book){
   const key=coverKey(book);
-  if(Object.prototype.hasOwnProperty.call(coverCache,key)){applyCover(card,coverCache[key]);return;}
-  if(coverPromises.has(key)){coverPromises.get(key).then(url=>applyCover(card,url));return;}
-  const promise=new Promise(resolve=>{
-    queue.push({book,card,resolve});
-    pump();
-  });
-  coverPromises.set(key,promise);
+  if(Object.prototype.hasOwnProperty.call(coverCache,key)){
+    if(coverCache[key]) applyRecord(card,coverCache[key]);
+    else card.querySelector(".match-status").textContent="No confident Open Library match";
+    return;
+  }
+  if(lookupPromises.has(key)){
+    lookupPromises.get(key).then(record=>{if(record)applyRecord(card,record);});
+    return;
+  }
+  const promise=new Promise(resolve=>{queue.push({book,card,resolve});pump();});
+  lookupPromises.set(key,promise);
 }
 function enqueueCover(card,book){
   card._book=book;
-  if(coverObserver) coverObserver.observe(card);
-  else loadCoverForCard(card,book);
-}
-function pump(){
-  while(running<3 && queue.length){
-    const task=queue.shift();running++;
-    const q='intitle:"'+task.book.title+'" inauthor:"'+task.book.author+'"';
-    fetch("https://www.googleapis.com/books/v1/volumes?q="+encodeURIComponent(q)+"&maxResults=1&printType=books")
-      .then(r=>r.ok?r.json():null)
-      .then(data=>{
-        let url="";
-        const item=data && data.items && data.items[0];
-        if(item && item.volumeInfo && item.volumeInfo.imageLinks){
-          url=item.volumeInfo.imageLinks.thumbnail || item.volumeInfo.imageLinks.smallThumbnail || "";
-          url=url.replace(/^http:/,"https:").replace(/&edge=curl/,"");
-        }
-        coverCache[coverKey(task.book)]=url;
-        try{localStorage.setItem("readingDashboardCoverCacheV1",JSON.stringify(coverCache));}catch(e){}
-        if(url && task.card) applyCover(task.card,url);
-        task.resolve(url);
-      })
-      .catch(()=>{task.resolve("");})
-      .finally(()=>{running--;pump();});
-  }
+  if(lookupObserver) lookupObserver.observe(card);
+  else loadRecordForCard(card,book);
 }
 function renderNav(){
   nav.replaceChildren();
@@ -216,12 +236,11 @@ function createCard(book){
   cover.append(fallback,img);
   const info=make("div","book-info");
   info.append(make("h3","book-title",book.title),make("p","book-author",book.author));
-  const links=make("div","buy-links");
-  const term=encodeURIComponent(book.title+" "+book.author);
-  links.append(makeLink("Amazon","https://www.amazon.com/s?k="+term));
-  links.append(makeLink("Bookshop","https://bookshop.org/search?keywords="+term));
-  links.append(makeLink("B&N","https://www.barnesandnoble.com/s/"+term));
-  info.appendChild(links);
+  const metadata=make("div","book-meta");
+  const idLine=make("div","meta-line");
+  idLine.append(make("span","meta-label","Open Library work: "),make("span","work-id","Pending match"));
+  metadata.append(idLine,make("p","publish-year",""),make("p","matched-authors",""),make("div","subjects",""),make("p","match-status",""));
+  info.appendChild(metadata);
   card.append(cover,info);
   enqueueCover(card,book);
   return card;
